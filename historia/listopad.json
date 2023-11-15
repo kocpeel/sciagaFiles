@@ -1,0 +1,17 @@
+{
+  "dzial": "świat w XIX wieku",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "pierwszy temat",
+      "description": "Lorem ipsum"
+    },
+    "temat2": {
+      "nazwaTematu": "drugi temat",
+      "description": "dolor"
+    },
+    "temat3": {
+      "nazwaTematu": "trzeci temat",
+      "description": "sit amet"
+    }
+  }
+}
