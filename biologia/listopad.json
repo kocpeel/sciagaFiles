@@ -1,0 +1,36 @@
+{
+  "dzial": "Układ mięśniowy",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Funkcje układu",
+      "description": "Umożliwia poruszanie się i wykonywanie precyzyjnych ruchów oraz jest odpowiedzialny za utrzymanie właściwej dla człowieka (wyprostowanej) postawy ciała oraz utrzymanie narządów wewnętrznych w odpowiednim miejscu."
+    },
+    "temat2": {
+      "nazwaTematu": "Za co jest odpowiedzialny",
+      "description": "W organizmie człowieka występuje ok. 640 mięśni, które stanowią od 30 do 50% masy ciała. Odpowiadają one nie tylko za ruch organizmu, ale również za przesuwanie treści pokarmowej w jelitach, wydawanie artykułowanych dźwięków, regulację ciśnienia krwi."
+    },
+    "temat3": {
+      "nazwaTematu": "Z czego się składa",
+      "description": "Układ mięśniowy zbudowany jest z różnego rodzaju tkanki mięśniowej (gładka, poprzecznie prążkowana szkieletowa i poprzecznie prążkowana serca). Wbrew pozorom mięśnie nie tylko umożliwiają poruszanie się i pozostanie aktywnym fizycznie (choć to ich niezwykle ważna funkcja).",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1176081474735325235/z19721449IHZe-wzgledu-na-budowe-oraz-pelnione-funkcje-w-organ.png?ex=656d923a&is=655b1d3a&hm=a03ed50411c4f561bf553273defc68c1cba6a7a4a53baae5230fdcef7f96b453&"
+    },
+    "temat4": {
+      "nazwaTematu": "Jaką funkcję pełnią komórki mięśniowe",
+      "description": "Komórki tkanki mięśniowej, kurcząc się i rozkurczając, umożliwiają ruch organizmu i transport różnych substancji w jego wnętrzu. Wśród tkanek mięśniowych wyróżniamy tkankę mięśniową szkieletową poprzecznie prążkowaną, tkankę mięśniową poprzecznie prążkowaną serca oraz tkankę mięśniową gładką."
+    },
+    "temat5": {
+      "nazwaTematu": "Czym żywią się mięśnie",
+      "description": "Dieta przy rozbudowie masy mięśniowej powinna zawierać odpowiednie ilości białka, zdrowego tłuszczu, witamin z grupy B, żelaza, cynku, przeciwutleniaczy i wody. Zasady odżywiania dla kobiet i mężczyzn są podobne, jednak paniom zaleca się jadłospis o mniejszym udziale węglowodanów."
+    },
+    "temat6": {
+      "nazwaTematu": "Układ mięśniowy",
+      "description": "",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1176078803647344700/z19767385IHMiesnie-szkieletowe.png?ex=656d8fbd&is=655b1abd&hm=56998e1b3026deafcae223148236e5b37c12e7f46320460299bc5263dfb6c134&"
+    },
+    "temat7": {
+      "nazwaTematu": "Budowa mięśnia",
+      "description": "Mięsień szkieletowy składa się z kurczliwych komórek, które tworzą 'włókna mięsniowe'. Na końcach brzuśca znajdują się 'ścięgna' - mocne, niekurczliwe pasma tkanki łącznej, które przymocowują go do kości. Mięśnie uzyskują energię głównie w wyniku 'ATP'.",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1176082629582389328/9k.png?ex=656d934d&is=655b1e4d&hm=f0b8115e499f63983ca301d44b8c5112d938899d572223b6597d96c05918db98&"
+    }
+  }
+}
