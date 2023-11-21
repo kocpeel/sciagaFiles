@@ -2,32 +2,36 @@
   "dzial": "Świat w VII wieku",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "pierwszy temat",
-      "description": "Lorem ipsssuum"
+      "nazwaTematu": "Francja",
+      "description": "Na wiek XVII i panowanie Ludwika XIV (1643-1715), twórcy francuskiej monarchii absolutnej, przypada szczyt hegemonii politycznej i militarnej Francji w Europie Zachodniej. Na Europę oddziaływała kultura francuska, a dwór królewski w Wersalu był wzorcem naśladowanym przez poszczególnych władców europejskich."
     },
     "temat2": {
-      "nazwaTematu": "drugi temat",
-      "description": "dolor"
+      "nazwaTematu": "Rządy absolutne we Francji",
+      "description": "W XVII wieku w niektórych państwach Europy ukształtowała się forma rządów zwana monarchią absolutną, która polegała na nieograniczonej władzy panującego. Jego decyzje nie podlegały jakiejkolwiek kontroli."
     },
     "temat3": {
-      "nazwaTematu": "trzecii! temat",
-      "description": "sit amet xyz"
+      "nazwaTematu": "Ludwik XIV (1643-1715)",
+      "description": "W czasie 72 lat panowania Ludwika XIV (1643-1715) Francja umocniła swą pozycję polityczną, gospodarczą i kulturalną. Król przy pomocy podległych mu ministrów decydował o podatkach, prawie, wojnie i pokoju. Był najwyższym sędzią. Za jedyne źródło prawa uznawał swoją wolę - „państwo to ja” - mówił. Urzędy powierzał przedstawicielom niższych warstw społecznych. Otaczał się więc ludźmi, którzy swoją pozycję zawdzięczali królowi, a nie arystokratycznemu pochodzeniu."
     },
     "temat4": {
-      "nazwaTematu": "trzec4i temat trzeci temat trzecitematzmdwad",
-      "description": "sit amet bajajajajjaajajajajjajajaj jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja sit amet bajajajajjaajajajajjajajaj jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja kamel kejs sit amet bajajajajjaajajajajjajajaj jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja sit amet bajajajajjaajajajajjajajaj jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja  jajajajajajajajajjaja kamel kejs"
+      "nazwaTematu": "Zasada merkantylizmu",
+      "description": "Najwybitniejszym ministrem z czasów Ludwika XIV był Jean Baptiste Colbert (czyt. kolber). Wprowadził on do gospodarki zasady merkantylizmu, które miały ograniczyć odpływ pieniędzy z kraju i pobudzić rozwój własnej produkcji. Poparł eksport gotowych towarów francuskich, poprzez wysokie cła utrudniał import z zagranicy, wspomagał budowę manufaktur, dróg, środków transportu. Francja zbudowała wówczas potężną flotę i zaczęła zdobywać kolonie, które dostarczały towarów dla początkującego przemysłu."
     },
     "temat5": {
-      "nazwaTematu": "trze5ci temat",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "nazwaTematu": "Jakie były skutki wojen w 17 wieku",
+      "description": "XVII wiek to dla Rzeczypospolitej niemal nieustanne wojny, prowadzone głownie z Rosją, Szwecją i Turcją. Ich efektem, poza znacznymi stratami terytorialnymi, było duże zmniejszenie się liczby ludności i związane z tym wyludnienie wielu obszarów państwa. Sytuacja gospodarcza kraju była katastrofalna."
     },
     "temat6": {
-      "nazwaTematu": "trz6eci temat",
-      "description": "sit amet"
+      "nazwaTematu": "Z kim walczyła polska w 17 wieku?",
+      "description": "RZECZPOSPOLITA OBOJGA NARODÓW W XVII W. Wiek XVII okazał się najkrwawszym w dziejach Rzeczypospolitej Obojga Narodów. Państwu polsko-litewskiemu przyszło stoczyć w nim długotrwałe wojny ze Szwecją, Rosją i Turcją. Nie uniknięto również wojen domowych, które spustoszyły znaczne połacie kraju."
     },
     "temat7": {
-      "nazwaTematu": "trze7ci temat",
-      "description": "sit amet"
+      "nazwaTematu": "Kto włączył Inflanty do Polski?",
+      "description": "W odpowiedzi Zygmunt III Waza ogłosił w 1600 r. inkorporację Inflant. Był to początek długotrwałych i bardzo wyniszczających Rzeczpospolitą wojen ze Szwecją."
+    },
+    "temat8": {
+      "nazwaTematu": "Przyczyny wojny trzydziestoletniej 1618-1648",
+      "description": " rozbicie polityczne Rzeszy Niemieckiej (ok. 300 księstw, biskupstw i wolnych miast); rywalizacja książąt o władzę z cesarzem z dynastii Habsburgów; dążenie Habsburgów do zjednoczenia Rzeszy, władzy absolutnej i likwidacji reformacji; walka o hegemonię w Europie; łamanie gwarancji religijnych w Czechach i na Węgrzech przez Habsburgów; zawiązanie przez protestantów Unii Protestanckiej (Ewangelickiej) a przez katolickich władców Ligi Katolickiej"
     }
   }
 }
