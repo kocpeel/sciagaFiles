@@ -1,0 +1,21 @@
+{
+  "dzial": "Świat w VI wieku",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Daty",
+      "description": "1525 r. - Karol V Habsburg odbija Mediolan i inne tereny zajęte przez Francję, bitwa pod Pawią, a w 1527 r. - wojska cesarskie napadają na Rzym i go plądrują, a w 1559 r. - koniec wojn włoskich, wojsk hiszpani pokonują Francję. "
+    },
+    "temat2": {
+      "nazwaTematu": "Wojny Włoskie",
+      "description": "Wojny na terenie dzisiajszych Włoch spowodowane były chęcią zajęcia tych terenów przez inne państwa. Rozpoczęły się w 1494 r., kiedy król Francji, Karol VIII zajął Mediolan i południowe Włochy. Odpowiedź pozostałych rywali była natychmiastowa i francuzi zostali wypchnięci z zajetych ternów."
+    },
+    "temat3": {
+      "nazwaTematu": "Trucja",
+      "description": "Podboje tureckie - Imperium osmańskie zaczęły ponowne podboje za panowania Sulejmana Wspaniałego w XVI w. Zaatakowali Królestwo Węgier i zdobyli Belgrad w 1521 r. Decydujące starcie miało miejsce w 1526 r."
+    },
+    "temat4": {
+      "nazwaTematu": "Walka o hegemonię w Europie w XVI Wieku",
+      "description": "wobec upadku znaczenia papiestwa i cesarstwa, rozegrała się między Habsburgami a Francją, a jej areną były przede wszystkim państwa włoskie. Spór o hegemonię na kontynencie rozgrywał się między Francją a imperium Habsburgów. Na sytuację w Europie istotny wpływ miała także Turcja, podbijająca tereny zarówno na Bliskim Wschodzie, jak i w Europie. Władztwo Habsburgów było olbrzymim tworem europejskim."
+    }
+  }
+}
