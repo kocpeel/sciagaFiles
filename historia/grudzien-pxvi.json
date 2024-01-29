@@ -1,0 +1,21 @@
+{
+  "dzial": "Polska w VI wieku",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Gospodarka",
+      "description": "W XVI wieku gospodarka Rzeczpospolitej opierała się na produkcji zboża w folwarkach należących do szlachty, na których pracowali chłopi pańszczyźniani. Na polskie zboże był spory popyt w krajach Europy Zachodniej. Dzięki temu rozkwitały i bogaciły się polskie miasta, zwłaszcza te nadwiślańskie."
+    },
+    "temat2": {
+      "nazwaTematu": "Unia Polsko-Litewska",
+      "description": "W 1569 roku w Lublinie została dodatkowo podpisana Unia Polsko – Litewska (unia realna, nie jak do tego momentu – personalna), na mocy której obydwa państwa miały mieć od tego momentu jednego władcę, sejm, wspólną walutę oraz wspólnie prowadzić politykę zagraniczną."
+    },
+    "temat3": {
+      "nazwaTematu": "Szlachecka demokracja",
+      "description": "W tym okresie rozwinęła się również szlachecka demokracja. W pozostałych państwach europy dominowała władza króla. Taki sposób prowadzenia państwa również odróżniał Polskę od innych ówczesnych krajów europejskich. Szlachta, której liczebność w ty okresie znacząco wzrosła (ok. 8 – 10%), miała duży wpływ ma prowadzenie polityki zewnętrznej oraz wewnętrznej. W tym czasie wzrosła zamożność szlachty oraz mieszczaństwa – jedynie sytuacja chłopstwa nie uległa zmianie. W Złotym Wieku pojawiły się nowe instytucje finansowe, które udzielały kredytów oraz pożyczek mieszczanom, zamożnej magnaterii jak i rodzinie królewskiej."
+    },
+    "temat4": {
+      "nazwaTematu": "Nauka i literatura",
+      "description": "XVI wiek to okres popularyzacji języka polskiego w administracji oraz w poezji i prozie. Tworzyli wtedy Mikołaj Rej, Andrzej Frycz-Modrzewski, Mikołaj Sęp-Szarzyński czy też Jan Kochanowski. W dziedzinie astronomii prym wiódł wówczas Mikołaj Kopernik."
+    }
+  }
+}
