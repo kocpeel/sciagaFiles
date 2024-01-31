@@ -1,0 +1,37 @@
+{
+  "dzial": "Zmiany na Mapie Politycznej",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Podział państw na kontynentach",
+      "description": "Mapa polityczna obejmuje podział państw na kontynenty, co ułatwia zrozumienie struktury geograficznej świata. Kontynenty, takie jak Ameryka Północna, Europa, Azja, Afryka, Australia i Antarktyda, stanowią podstawowe jednostki podziału geograficznego."
+    },
+    "temat2": {
+      "nazwaTematu": "Zmiany granic państw",
+      "description": "Granice państw ulegają zmianom w wyniku różnych wydarzeń historycznych, politycznych i społecznych. Mapa polityczna odzwierciedla te zmiany, takie jak rozpad ZSRR, rozpad Jugosławii czy zmiany granic na skutek traktatów międzynarodowych. Przykłady to powstanie nowych państw lub zmiany granic w wyniku konfliktów."
+    },
+    "temat3": {
+      "nazwaTematu": "Ruchy niepodległościowe",
+      "description": "Ruchy niepodległościowe wpływają na mapę polityczną poprzez powstawanie nowych państw. Przykłady obejmują rozpad Czechosłowacji na Czechy i Słowację, a także uzyskanie niepodległości przez kraje bałtyckie po rozpadzie ZSRR. Te zmiany kształtują geopolityczny układ sił na mapie."
+    },
+    "temat4": {
+      "nazwaTematu": "Wpływ globalizacji na strukturę państw",
+      "description": "Globalizacja ma wpływ na strukturę państw, zarówno pod względem gospodarczym, jak i politycznym. Kształtuje ona nowe relacje międzynarodowe, co może skutkować zmianami na mapie politycznej. Integracja gospodarcza, współpraca międzynarodowa i migracje ludności to czynniki wpływające na układ państw na mapie."
+    },
+    "temat5": {
+      "nazwaTematu": "Rola organizacji międzynarodowych",
+      "description": "Organizacje międzynarodowe, takie jak ONZ, Unia Europejska czy NATO, mają istotny wpływ na mapę polityczną. Decyzje podejmowane przez te instytucje wpływają na relacje międzynarodowe i strukturę państw. Przykładowo, procesy integracyjne w Europie zmieniają układ polityczny na kontynencie."
+    },
+    "temat6": {
+      "nazwaTematu": "Problematyka migracji",
+      "description": "Wzrost migracji ludności ma wpływ na mapę polityczną, zwłaszcza w kontekście kwestii granic, obywatelstwa i polityki imigracyjnej. Konflikty związane z migracjami mogą prowadzić do zmian w strukturze państw, a także wpływać na ich stosunki z sąsiadami."
+    },
+    "temat7": {
+      "nazwaTematu": "Globalne konflikty i zmiany terytorialne",
+      "description": "Globalne konflikty mają potencjał wpływania na mapę polityczną poprzez zmiany terytorialne. Przykłady to aneksja Krymu przez Rosję, konflikty na Bliskim Wschodzie prowadzące do zmian granic czy sporów terytorialnych między państwami."
+    },
+    "temat8": {
+      "nazwaTematu": "Wpływ zmian klimatycznych na mapę polityczną",
+      "description": "Zmiany klimatyczne wpływają na mapę polityczną poprzez wprowadzanie nowych wyzwań, takich jak migracje spowodowane ekstremalnymi warunkami pogodowymi, konflikty o zasoby naturalne czy restrukturyzacja gospodarek państw. Te czynniki mogą kształtować nowe priorytety polityczne na arenie międzynarodowej."
+    }
+  }
+}
