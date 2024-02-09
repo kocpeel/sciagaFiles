@@ -1,37 +1,43 @@
 {
-  "dzial": "Zmiany na Mapie Politycznej",
+  "dzial": "Chemia Roztworów Wodnych",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Podział państw na kontynentach",
-      "description": "Mapa polityczna obejmuje podział państw na kontynenty, co ułatwia zrozumienie struktury geograficznej świata. Kontynenty, takie jak Ameryka Północna, Europa, Azja, Afryka, Australia i Antarktyda, stanowią podstawowe jednostki podziału geograficznego."
+      "nazwaTematu": "Charakterystyka Roztworów Wodnych",
+      "description": "Roztwory wodne są powszechnymi substancjami w przyrodzie, gdzie woda pełni rolę rozpuszczalnika. Charakteryzują się tym, że są jednorodne, przezroczyste, przewodzą prąd elektryczny (jeśli zawierają jonową lub jonową ciecz), a także mają właściwości molowe, co oznacza, że ​​ich skład jest określony mianem molalności lub moli. Roztwory wodne mogą być kwaśne, zasadowe lub obojętne, w zależności od pH."
     },
     "temat2": {
-      "nazwaTematu": "Zmiany granic państw",
-      "description": "Granice państw ulegają zmianom w wyniku różnych wydarzeń historycznych, politycznych i społecznych. Mapa polityczna odzwierciedla te zmiany, takie jak rozpad ZSRR, rozpad Jugosławii czy zmiany granic na skutek traktatów międzynarodowych. Przykłady to powstanie nowych państw lub zmiany granic w wyniku konfliktów."
+      "nazwaTematu": "Rozpuszczalność substancji w wodzie",
+      "description": "Rozpuszczalność substancji w wodzie zależy od natury chemicznej zarówno rozpuszczalnika, jak i substancji rozpuszczonej. Niektóre związki są łatwo rozpuszczalne w wodzie (np. sole jonowe), podczas gdy inne są słabo rozpuszczalne lub nierozpuszczalne (np. tłuszcze). Rozpuszczalność substancji w wodzie może być wyrażana w gramach substancji rozpuszczonej na 100 g wody przy danej temperaturze."
     },
     "temat3": {
-      "nazwaTematu": "Ruchy niepodległościowe",
-      "description": "Ruchy niepodległościowe wpływają na mapę polityczną poprzez powstawanie nowych państw. Przykłady obejmują rozpad Czechosłowacji na Czechy i Słowację, a także uzyskanie niepodległości przez kraje bałtyckie po rozpadzie ZSRR. Te zmiany kształtują geopolityczny układ sił na mapie."
+      "nazwaTematu": "Procesy dysocjacji elektrolitycznej i jonizacji",
+      "description": "W roztworach wodnych związki jonowe mogą ulegać procesom dysocjacji elektrolitycznej lub jonizacji. Podczas dysocjacji elektrolitycznej cząsteczki związku jonowego rozpadają się na jony, np. NaCl → Na⁺ + Cl⁻. Natomiast w procesie jonizacji cząsteczki niejonowe rozpuszczają się w wodzie, tworząc jony, np. HCl + H₂O → H₃O⁺ + Cl⁻."
     },
     "temat4": {
-      "nazwaTematu": "Wpływ globalizacji na strukturę państw",
-      "description": "Globalizacja ma wpływ na strukturę państw, zarówno pod względem gospodarczym, jak i politycznym. Kształtuje ona nowe relacje międzynarodowe, co może skutkować zmianami na mapie politycznej. Integracja gospodarcza, współpraca międzynarodowa i migracje ludności to czynniki wpływające na układ państw na mapie."
+      "nazwaTematu": "Temperatura a rozpuszczalność",
+      "description": "Zwiększenie temperatury zwykle zwiększa rozpuszczalność substancji stałych w wodzie, ale może ją zmniejszyć dla gazów. Jest to związane z procesem dysocjacji cząsteczek i zmianami entalpii roztworu. Jednakże, dla niektórych substancji, zwiększenie temperatury może spowodować odwrotne efekty, na przykład prowadząc do wytrącania się z roztworu."
     },
     "temat5": {
-      "nazwaTematu": "Rola organizacji międzynarodowych",
-      "description": "Organizacje międzynarodowe, takie jak ONZ, Unia Europejska czy NATO, mają istotny wpływ na mapę polityczną. Decyzje podejmowane przez te instytucje wpływają na relacje międzynarodowe i strukturę państw. Przykładowo, procesy integracyjne w Europie zmieniają układ polityczny na kontynencie."
+      "nazwaTematu": "Wzory na Stopień Utlenienia",
+      "description": "Wzory na stopień utlenienia pozwalają określić stopień utlenienia pierwiastka w danym związku chemicznym. Sumaryczny stopień utlenienia w danym związku wynosi zawsze 0. Przykładowe wzory obejmują:\n1. Dla jonów: stopień utlenienia pierwiastka = ładunek jonu.\n2. Dla związku chemicznego: suma stopni utlenienia wszystkich pierwiastków musi równać się 0."
     },
     "temat6": {
-      "nazwaTematu": "Problematyka migracji",
-      "description": "Wzrost migracji ludności ma wpływ na mapę polityczną, zwłaszcza w kontekście kwestii granic, obywatelstwa i polityki imigracyjnej. Konflikty związane z migracjami mogą prowadzić do zmian w strukturze państw, a także wpływać na ich stosunki z sąsiadami."
+      "nazwaTematu": "Rola roztworów w życiu codziennym",
+      "description": "Roztwory wodne odgrywają kluczową rolę w życiu codziennym. Są one wykorzystywane w procesach gotowania, czyszczenia, prania oraz jako rozpuszczalniki w przemyśle chemicznym. Ponadto, wielu leków, napojów i produktów spożywczych to roztwory wodne, co pokazuje ich znaczenie dla zdrowia i codziennej higieny."
     },
     "temat7": {
-      "nazwaTematu": "Globalne konflikty i zmiany terytorialne",
-      "description": "Globalne konflikty mają potencjał wpływania na mapę polityczną poprzez zmiany terytorialne. Przykłady to aneksja Krymu przez Rosję, konflikty na Bliskim Wschodzie prowadzące do zmian granic czy sporów terytorialnych między państwami."
+      "nazwaTematu": "Analiza składu roztworów",
+      "description": "Analiza składu roztworów jest kluczowa dla określenia ich właściwości i zastosowań. Metody analizy mogą obejmować spektroskopię, chromatografię, elektroforezę oraz różne techniki titracyjne. Pozwala to na określenie stężenia substancji rozpuszczonej, identyfikację zanieczyszczeń oraz ocenę jakości roztworów."
     },
     "temat8": {
-      "nazwaTematu": "Wpływ zmian klimatycznych na mapę polityczną",
-      "description": "Zmiany klimatyczne wpływają na mapę polityczną poprzez wprowadzanie nowych wyzwań, takich jak migracje spowodowane ekstremalnymi warunkami pogodowymi, konflikty o zasoby naturalne czy restrukturyzacja gospodarek państw. Te czynniki mogą kształtować nowe priorytety polityczne na arenie międzynarodowej."
+      "nazwaTematu": "Przykładowe zadania dotyczące stopnia utlenienia",
+      "description": "",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1205446777411604550/1707471297394.jpg?ex=65d866cb&is=65c5f1cb&hm=73c97217050bbbd8e95e83cf446f80495da1bc2a17d7ca40619385d7ac9c2099&",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1205446777696690197/1707471297405.jpg?ex=65d866cb&is=65c5f1cb&hm=5cca4e3c856a2ebb8adc52d7683a597d84c25d19283b702c61c21ad0c4077dba&"
+    },
+    "temat9": {
+      "nazwaTematu": "Zastosowania roztworów wodnych",
+      "description": "Roztwory wodne mają szerokie zastosowania w wielu dziedzinach życia. Służą jako nośnik substancji odżywczych w organizmach, są wykorzystywane w procesach reakcji chemicznych, pełnią rolę rozpuszczalnika w przemyśle farmaceutycznym i kosmetycznym, a także mają zastosowanie w technologii spożywczej i przemysłowej."
     }
   }
 }
