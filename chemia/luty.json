@@ -33,9 +33,13 @@
       "nazwaTematu": "Przykładowe zadania dotyczące stopnia utlenienia",
       "description": "",
       "img": "https://cdn.discordapp.com/attachments/755519116680495226/1205446777411604550/1707471297394.jpg?ex=65d866cb&is=65c5f1cb&hm=73c97217050bbbd8e95e83cf446f80495da1bc2a17d7ca40619385d7ac9c2099&",
-      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1205446777696690197/1707471297405.jpg?ex=65d866cb&is=65c5f1cb&hm=5cca4e3c856a2ebb8adc52d7683a597d84c25d19283b702c61c21ad0c4077dba&"
     },
     "temat9": {
+      "nazwaTematu": "",
+      "description": "",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1205446777696690197/1707471297405.jpg?ex=65d866cb&is=65c5f1cb&hm=5cca4e3c856a2ebb8adc52d7683a597d84c25d19283b702c61c21ad0c4077dba&"
+    },
+    "temat10": {
       "nazwaTematu": "Zastosowania roztworów wodnych",
       "description": "Roztwory wodne mają szerokie zastosowania w wielu dziedzinach życia. Służą jako nośnik substancji odżywczych w organizmach, są wykorzystywane w procesach reakcji chemicznych, pełnią rolę rozpuszczalnika w przemyśle farmaceutycznym i kosmetycznym, a także mają zastosowanie w technologii spożywczej i przemysłowej."
     }
