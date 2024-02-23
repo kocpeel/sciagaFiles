@@ -1,0 +1,37 @@
+{
+  "dzial": "XVIII w. - Oświecenie, Absolutyzm Oświecony, Polska 1683-1773",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Oświecenie",
+      "description": "Oświecenie to epoka w historii Europy, charakteryzująca się wzrostem znaczenia nauki, rozwojem idei liberalnych oraz krytyką absolutyzmu. Oświecenie promowało rozum, naukę i tolerancję religijną jako fundamenty postępu społecznego. Wybitnymi przedstawicielami oświecenia byli Voltaire, Rousseau i Monteskiusz."
+    },
+    "temat2": {
+      "nazwaTematu": "Absolutyzm Oświecony",
+      "description": "Absolutyzm oświecony to forma rządów, która łączyła elementy absolutyzmu z ideami oświecenia. Władcy absolutystyczni starali się wdrażać reformy zgodne z duchem oświecenia, takie jak modernizacja administracji, kodyfikacja prawa, rozwój edukacji i nauki. Przykładem takiego absolutyzmu był panowanie Fryderyka II w Prusach."
+    },
+    "temat3": {
+      "nazwaTematu": "Polska w XVIII w.",
+      "description": "W XVIII wieku Polska przeżywała okres znaczących zmian politycznych i społecznych. Nastąpiło osłabienie Rzeczypospolitej, przyczynione między innymi przez wewnętrzne konflikty i konfederacje, a także zewnętrzne interwencje obcych mocarstw. W 1772, 1793 i 1795 roku Polska została rozbiorami podzielona między Rosję, Prusy i Austrię."
+    },
+    "temat4": {
+      "nazwaTematu": "Polska wobec Oświecenia",
+      "description": "Oświecenie miało wpływ na polskie elity intelektualne i polityczne. Niektórzy myśliciele polscy, tak jak Stanisław Konarski, propagowali idee oświecenia, promując reformy w edukacji i administracji. Jednakże, w Polsce nie udało się wprowadzić szerokich reform modernizacyjnych, co przyczyniło się do osłabienia państwa."
+    },
+    "temat5": {
+      "nazwaTematu": "Rozbiory Polski",
+      "description": "Rozbiory Polski to proces podziału terytorium Rzeczypospolitej pomiędzy Rosję, Prusy i Austrię. Pierwszy rozbiór miał miejsce w 1772 roku, drugi w 1793, a trzeci i ostateczny w 1795. Rozbiory zakończyły istnienie państwa polskiego na mapie Europy, a jego terytorium zostało wchłonięte przez mocarstwa zaborcze."
+    },
+    "temat6": {
+      "nazwaTematu": "Konfederacje w Polsce",
+      "description": "Konfederacje w Polsce to ruchy oporu przeciwko reformom i interwencjom obcych mocarstw. Przykładem jest Konfederacja Barska (1768-1772), która sprzeciwiała się wpływom rosyjskim i austriackim. Innymi konfederacjami były Konfederacja Radomska (1767) czy Konfederacja Targowicka (1792), które miały na celu ochronę interesów szlachty."
+    },
+    "temat7": {
+      "nazwaTematu": "Reformy w Polsce",
+      "description": "W XVIII wieku w Polsce podejmowano próby reform, które miały na celu modernizację państwa i społeczeństwa. Jednakże, z powodu oporu szlachty i obcych interwencji, większość reform nie odniosła sukcesu. Przykładem takich prób były reformy Stanisława Augusta Poniatowskiego, które miały na celu wzmocnienie monarchii i przeciwdziałanie upadkowi państwa."
+    },
+    "temat8": {
+      "nazwaTematu": "Skutki rozbiórów Polski",
+      "description": "Rozbiory Polski miały poważne skutki dla kraju. Zmniejszyły one terytorium Rzeczypospolitej, osłabiły polską pozycję na arenie międzynarodowej, a także przyczyniły się do upadku szlacheckiej republiki. Wydarzenia te wywarły również wpływ na późniejsze losy Polski, a szczególnie na kształtowanie się dążeń niepodległościowych."
+    }
+  }
+}
