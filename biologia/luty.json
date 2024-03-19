@@ -1,37 +1,45 @@
 {
-  "dzial": "Układ Pokarmowy",
+  "dzial": "Układ Krążenia i Odporność",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Higiena i Choroby Układu Pokarmowego",
-      "description": "Zachowanie odpowiedniej higieny w codziennym życiu jest kluczowe dla zdrowia układu pokarmowego. Choroby układu pokarmowego mogą wynikać z zanieczyszczeń żywności, braku higieny osobistej czy infekcji bakteryjnych. Regularne mycie rąk, spożywanie bezpiecznych produktów spożywczych i unikanie zanieczyszczeń są istotne dla prewencji chorób tego układu."
+      "nazwaTematu": "Rodzaje Odporności",
+      "description": "W organizmie występują dwa główne rodzaje odporności: wrodzona i nabyta. Odporność wrodzona jest to ta, z którą organizm rodzi się i obejmuje fizyczne i chemiczne mechanizmy obronne, takie jak skóra, śluzówki, białe krwinki i substancje bakteriobójcze. Odporność nabyta rozwija się w odpowiedzi na konkretne czynniki zakaźne i obejmuje działanie limfocytów B i T oraz produkcję przeciwciał."
     },
     "temat2": {
-      "nazwaTematu": "Rola Witamin w Organizmie",
-      "description": "Witaminy pełnią kluczową rolę w prawidłowym funkcjonowaniu organizmu. Dwie istotne witaminy to:\n1. Witamina C - pełni funkcję przeciwutleniacza, wzmacnia układ odpornościowy, wspomaga wchłanianie żelaza.\n2. Witamina D - reguluje metabolizm wapnia i fosforu, wspomaga zdrowie kości i układu immunologicznego."
+      "nazwaTematu": "Trzy Linie Obrony Organizmu",
+      "description": "Organizm ludzki ma trzy linie obrony: pierwszą linię obrony stanowią fizyczne i chemiczne bariery, takie jak skóra, błony śluzowe i sok żołądkowy. Drugą linię obrony stanowią białe krwinki, takie jak neutrofile i makrofagi, które zwalczają patogeny poprzez fagocytozę. Trzecią linię obrony stanowi odporność nabyta, czyli odpowiedź immunologiczna, która obejmuje limfocyty T i B oraz produkcję przeciwciał."
     },
     "temat3": {
-      "nazwaTematu": "Organiczne Składniki Pokarmowe",
-      "description": "Organiczne składniki pokarmowe są niezbędne dla utrzymania życia. Dwa kluczowe składniki to:\n1. Białka - pełnią funkcję budulcową, uczestniczą w procesie regeneracji komórek, są enzymami.\n2. Węglowodany - stanowią główne źródło energii dla organizmu, szczególnie mózgu. Dzielą się na proste (cukry) i złożone (skrobia, błonnik)."
+      "nazwaTematu": "Sposoby Nabierania Odporności Swoistej",
+      "description": "Odporność swoista może być nabywana czynnie lub biernie, naturalnie lub sztucznie. Nabycie odporności czynnej polega na zakażeniu organizmu patogenem, co prowadzi do rozwinięcia odpowiedzi immunologicznej i trwałego zapamiętania patogenu przez organizm. Nabycie odporności biernie występuje poprzez podanie gotowych przeciwciał, na przykład przez matkę podczas karmienia piersią. Odporność naturalna rozwija się w wyniku zakażenia naturalnego, podczas gdy odporność sztuczna jest indukowana przez szczepionkę."
     },
     "temat4": {
-      "nazwaTematu": "Procesy trawienne",
-      "description": "Trawienie to skomplikowany proces, który rozpoczyna się w jamie ustnej, gdzie enzymy zaczynają rozkładanie składników pokarmowych. Następnie jedzenie przechodzi do żołądka, gdzie pod wpływem kwasu żołądkowego następuje dalszy rozkład. Ostateczne trawienie i wchłanianie substancji odbywa się w jelitach cienkich. Proces ten jest kluczowy dla przyswajania składników odżywczych."
+      "nazwaTematu": "Choroby Autoimmunologiczne",
+      "description": "Choroby autoimmunologiczne występują, gdy układ odpornościowy atakuje własne komórki i tkanki organizmu, myląc je z patogenami. Przykłady chorób autoimmunologicznych to reumatoidalne zapalenie stawów, toczeń rumieniowaty układowy, cukrzyca typu 1 i stwardnienie rozsiane."
     },
     "temat5": {
-      "nazwaTematu": "Funkcja wątroby",
-      "description": "Wątroba to narząd kluczowy dla układu pokarmowego. Odpowiada za produkcję żółci, która jest niezbędna do trawienia tłuszczów. Ponadto, wątroba filtruje krew, usuwając toksyny i zbędne substancje. Jest również magazynem glikogenu oraz uczestniczy w regulacji poziomu glukozy we krwi."
+      "nazwaTematu": "Konflikt Serologiczny",
+      "description": "Konflikt serologiczny to sytuacja, w której układ odpornościowy matki reaguje na antygeny obecne w krwi płodu, co może prowadzić do uszkodzenia tkanek płodu. Przykładem jest konflikt serologiczny Rh, który może wystąpić, gdy kobieta Rh- urodzi dziecko Rh+, co może prowadzić do erytroblastozisów płodowych."
     },
     "temat6": {
-      "nazwaTematu": "Znaczenie mikroorganizmów w przewodzie pokarmowym",
-      "description": "Mikroorganizmy obecne w przewodzie pokarmowym pełnią istotne funkcje. Flora bakteryjna jelitowa wspomaga trawienie, syntezuje niektóre witaminy, wpływa na odporność organizmu. Zachowanie równowagi mikroflory jelitowej jest kluczowe dla utrzymania zdrowia układu pokarmowego."
+      "nazwaTematu": "Układ Zgodności Tkankowej",
+      "description": "Układ zgodności tkankowej to zbiór genów kodujących antygeny powierzchniowe na komórkach organizmu. Istnieje wiele loci genów, które określają zgodność tkankową między dawcą a biorcą w transplantacji. Im większa zgodność tkankowa między dawcą a biorcą, tym mniejsze ryzyko odrzutu przeszczepu."
     },
     "temat7": {
-      "nazwaTematu": "Zaburzenia trawienne",
-      "description": "Zaburzenia trawienne mogą obejmować różne schorzenia, takie jak nietolerancje pokarmowe, zespół jelita drażliwego czy choroby zapalne jelit. Dieta, unikanie stresu oraz regularne badania stanu zdrowia mogą pomóc w prewencji i leczeniu tych problemów."
+      "nazwaTematu": "Transplantacja",
+      "description": "Transplantacja to zabieg chirurgiczny polegający na przeniesieniu narządu lub tkanki od dawcy do biorcy w celu przywrócenia lub poprawienia funkcji ciała. Transplantacja może być przeprowadzana w przypadku narządów takich jak serce, nerki, wątroba, płuca oraz tkanek, takich jak skóra czy rogówka oka."
     },
     "temat8": {
-      "nazwaTematu": "Znaczenie równowagi pH w żołądku",
-      "description": "Równowaga pH w żołądku jest kluczowa dla prawidłowego trawienia. Kwas solny wytwarzany przez komórki błony śluzowej żołądka pomaga w rozkładzie białek i eliminacji bakterii. Jednak utrzymanie odpowiedniego pH jest istotne, aby uniknąć problemów żołądkowych i zachować zdrowie układu pokarmowego."
+      "nazwaTematu": "Immunosupresja",
+      "description": "Immunosupresja to proces, w którym układ odpornościowy jest celowo osłabiany, na przykład w celu zapobiegania odrzutowi przeszczepu. Dla zapewnienia sukcesu transplantacji stosuje się leki immunosupresyjne, które hamują reakcje immunologiczne organizmu i zmniejszają ryzyko odrzutu przeszczepu."
+    },
+    "temat9": {
+      "nazwaTematu": "Alergia",
+      "description": "Alergia to nadwrażliwość organizmu na substancje zwane alergenami, które normalnie nie stanowią zagrożenia dla zdrowych osób. Alergeny mogą być spożywane, wdychane lub wchłaniane przez skórę. Reakcja alergiczna może prowadzić do różnych objawów, od łagodnych do życia zagrażających, takich jak obrzęk naczynioruchowy czy wstrząs anafilaktyczny."
+    },
+    "temat10": {
+      "nazwaTematu": "Higiena i Choroby Układu Krwionośnego",
+      "description": "Higiena układu krwionośnego obejmuje praktyki mające na celu zapobieganie chorobom serca, naczyń krwionośnych i innych problemów zdrowotnych związanych z układem krążenia. Zalecenia dotyczące higieny układu krwionośnego obejmują zdrową dietę, regularną aktywność fizyczną, unikanie używek takich jak tytoń i alkohol, kontrolę ciśnienia krwi oraz regularne badania lekarskie. Choroby układu krwionośnego to z kolei wszelkie schorzenia dotykające serca, naczyń krwionośnych oraz krwi, takie jak nadciśnienie tętnicze, choroba wieńcowa, miażdżyca, zakrzepica czy udar mózgu. Właściwa higiena i regularne kontrole mogą pomóc w zapobieganiu wielu z tych chorób oraz w utrzymaniu zdrowego układu krążenia."
     }
   }
 }
