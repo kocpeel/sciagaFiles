@@ -1,37 +1,49 @@
 {
-  "dzial": "Zmiany na Mapie Politycznej",
+  "dzial": "Ludność i Osadnictwo",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Podział państw na kontynentach",
-      "description": "Mapa polityczna obejmuje podział państw na kontynenty, co ułatwia zrozumienie struktury geograficznej świata. Kontynenty, takie jak Ameryka Północna, Europa, Azja, Afryka, Australia i Antarktyda, stanowią podstawowe jednostki podziału geograficznego."
+      "nazwaTematu": "Liczba Ludności Świata i Jej Zmiany",
+      "description": "Liczba ludności świata stale się zmienia w wyniku procesów demograficznych takich jak urodzenia, zgony i migracje. W ciągu ostatnich kilku dekad nastąpił gwałtowny wzrost populacji, zwany wybuchem ludnościowym. Obecnie populacja świata przekracza 7 miliardów ludzi i nadal rośnie, choć tempo wzrostu maleje. Przewiduje się, że do 2050 roku liczba ludności osiągnie około 9-10 miliardów."
     },
     "temat2": {
-      "nazwaTematu": "Zmiany granic państw",
-      "description": "Granice państw ulegają zmianom w wyniku różnych wydarzeń historycznych, politycznych i społecznych. Mapa polityczna odzwierciedla te zmiany, takie jak rozpad ZSRR, rozpad Jugosławii czy zmiany granic na skutek traktatów międzynarodowych. Przykłady to powstanie nowych państw lub zmiany granic w wyniku konfliktów."
+      "nazwaTematu": "Rozwój Demograficzny",
+      "description": "Rozwój demograficzny to procesy związane z urodzeniami, zgony, migracjami oraz strukturą wiekową i płciową populacji. Wskaźniki demograficzne, takie jak współczynnik urodzeń, współczynnik śmiertelności czy współczynnik migracji, pozwalają ocenić dynamikę rozwoju demograficznego."
     },
     "temat3": {
-      "nazwaTematu": "Ruchy niepodległościowe",
-      "description": "Ruchy niepodległościowe wpływają na mapę polityczną poprzez powstawanie nowych państw. Przykłady obejmują rozpad Czechosłowacji na Czechy i Słowację, a także uzyskanie niepodległości przez kraje bałtyckie po rozpadzie ZSRR. Te zmiany kształtują geopolityczny układ sił na mapie."
+      "nazwaTematu": "Rozmieszczenie Ludności na Świecie",
+      "description": "Ludność świata jest nierównomiernie rozmieszczona. Największe skupiska ludności znajdują się w obszarach o korzystnych warunkach naturalnych, takich jak doliny rzeczne, wybrzeża morskie i równiny. Jednakże, zasoby naturalne, klimat, warunki ekonomiczne i polityczne także wpływają na rozmieszczenie ludności."
     },
     "temat4": {
-      "nazwaTematu": "Wpływ globalizacji na strukturę państw",
-      "description": "Globalizacja ma wpływ na strukturę państw, zarówno pod względem gospodarczym, jak i politycznym. Kształtuje ona nowe relacje międzynarodowe, co może skutkować zmianami na mapie politycznej. Integracja gospodarcza, współpraca międzynarodowa i migracje ludności to czynniki wpływające na układ państw na mapie."
+      "nazwaTematu": "Migracje",
+      "description": "Migracje to przemieszczanie się ludności z jednego miejsca do drugiego. Mogą być one spowodowane różnymi czynnikami, takimi jak poszukiwanie pracy, ucieczka przed konfliktami zbrojnymi, klimatycznymi lub ekonomicznymi, czy też dążenie do lepszego życia. Migracje mają wpływ na rozmieszczenie ludności, gospodarkę i kulturę."
     },
     "temat5": {
-      "nazwaTematu": "Rola organizacji międzynarodowych",
-      "description": "Organizacje międzynarodowe, takie jak ONZ, Unia Europejska czy NATO, mają istotny wpływ na mapę polityczną. Decyzje podejmowane przez te instytucje wpływają na relacje międzynarodowe i strukturę państw. Przykładowo, procesy integracyjne w Europie zmieniają układ polityczny na kontynencie."
+      "nazwaTematu": "Zróżnicowanie Narodowościowe i Etniczne Ludności Świata",
+      "description": "Ludność świata jest bardzo zróżnicowana pod względem narodowości i etniczności. Istnieją tysiące różnych grup etnicznych, posługujących się różnymi językami, praktykujących różne religie i kultywujących różne tradycje kulturowe. Zróżnicowanie to wynika z historii migracji, kolonializmu, procesów urbanizacji i globalizacji."
     },
     "temat6": {
-      "nazwaTematu": "Problematyka migracji",
-      "description": "Wzrost migracji ludności ma wpływ na mapę polityczną, zwłaszcza w kontekście kwestii granic, obywatelstwa i polityki imigracyjnej. Konflikty związane z migracjami mogą prowadzić do zmian w strukturze państw, a także wpływać na ich stosunki z sąsiadami."
+      "nazwaTematu": "Struktura Językowa i Struktura Wykształcenia Ludności Świata",
+      "description": "Języki i poziom wykształcenia są ważnymi elementami struktury społecznej ludności świata. Istnieje wiele tysięcy języków używanych na całym świecie, z których niektóre są używane przez mniejszości narodowe. Struktura wykształcenia ludności zależy od dostępu do edukacji, infrastruktury, kultury i polityki państwa."
     },
     "temat7": {
-      "nazwaTematu": "Globalne konflikty i zmiany terytorialne",
-      "description": "Globalne konflikty mają potencjał wpływania na mapę polityczną poprzez zmiany terytorialne. Przykłady to aneksja Krymu przez Rosję, konflikty na Bliskim Wschodzie prowadzące do zmian granic czy sporów terytorialnych między państwami."
+      "nazwaTematu": "Zróżnicowanie Religijne Ludności Świata",
+      "description": "Religie są ważnym elementem kultury i tożsamości społecznej ludności świata. Istnieje wiele różnych religii i wyznań, takich jak chrześcijaństwo, islam, hinduizm, buddyzm, judaizm i inne. Zróżnicowanie religijne ma wpływ na życie społeczne, kulturalne, polityczne i ekonomiczne społeczności na całym świecie."
     },
     "temat8": {
-      "nazwaTematu": "Wpływ zmian klimatycznych na mapę polityczną",
-      "description": "Zmiany klimatyczne wpływają na mapę polityczną poprzez wprowadzanie nowych wyzwań, takich jak migracje spowodowane ekstremalnymi warunkami pogodowymi, konflikty o zasoby naturalne czy restrukturyzacja gospodarek państw. Te czynniki mogą kształtować nowe priorytety polityczne na arenie międzynarodowej."
+      "nazwaTematu": "Kręgi Kulturowe",
+      "description": "Kręgi kulturowe to obszary geograficzne, w których występują podobne wzorce kulturowe, językowe, religijne i społeczne. Przykłady kręgów kulturowych to Europa Zachodnia, Bliski Wschód, Azja Wschodnia, Afryka Subsaharyjska i inne. Kręgi kulturowe kształtują tożsamość narodową i regionalną ludności oraz wpływają na rozwój społeczno-gospodarczy."
+    },
+    "temat9": {
+      "nazwaTematu": "Rozwój Sieci Osadniczej na Świecie",
+      "description": "Rozwój sieci osadniczej obejmuje procesy tworzenia i rozwoju miast, wsi i innych form osadnictwa na świecie. Czynniki takie jak dostępność zasobów naturalnych, infrastruktura, warunki klimatyczne, handel i polityka wpływają na lokalizację i rozwój osadnictwa."
+    },
+    "temat10": {
+      "nazwaTematu": "Miasta Świata",
+      "description": "Miasta stanowią istotne ośrodki ludzkiej działalności, gospodarczej, kulturalnej i społecznej. Współcześnie wiele miast na świecie charakteryzuje się szybkim wzrostem populacji, gęstą zabudową, zanieczyszczeniem środowiska, problemami społecznymi oraz zróżnicowaniem ekonomicznym i społecznym. Miasta pełnią funkcje administracyjne, handlowe, edukacyjne i kulturalne, a także są ważnymi ośrodkami pracy i życia dla milionów ludzi."
+    },
+    "temat11": {
+      "nazwaTematu": "Higiena i Choroby Układu Krwionośnego",
+      "description": "Higiena układu krwionośnego obejmuje praktyki mające na celu zapobieganie chorobom serca, naczyń krwionośnych i innych problemów zdrowotnych związanych z układem krążenia. Zalecenia dotyczące higieny układu krwionośnego obejmują zdrową dietę, regularną aktywność fizyczną, unikanie używek takich jak tytoń i alkohol, kontrolę ciśnienia krwi oraz regularne badania lekarskie. Choroby układu krwionośnego to z kolei wszelkie schorzenia dotykające serca, naczyń krwionośnych oraz krwi, takie jak nadciśnienie tętnicze, choroba wieńcowa, miażdżyca, zakrzepica czy udar mózgu. Właściwa higiena i regularne kontrole mogą pomóc w zapobieganiu wielu z tych chorób oraz w utrzymaniu zdrowego układu krążenia."
     }
   }
 }
