@@ -1,45 +1,41 @@
 {
-  "dzial": "Układ Krążenia i Odporność",
+  "dzial": "Układ Oddechowy i Układ Wydalniczy",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Rodzaje Odporności",
-      "description": "W organizmie występują dwa główne rodzaje odporności: wrodzona i nabyta. Odporność wrodzona jest to ta, z którą organizm rodzi się i obejmuje fizyczne i chemiczne mechanizmy obronne, takie jak skóra, śluzówki, białe krwinki i substancje bakteriobójcze. Odporność nabyta rozwija się w odpowiedzi na konkretne czynniki zakaźne i obejmuje działanie limfocytów B i T oraz produkcję przeciwciał."
+      "nazwaTematu": "Higiena i Choroby Układu Oddechowego",
+      "description": "Higiena układu oddechowego obejmuje praktyki mające na celu zapobieganie chorobom dróg oddechowych, takim jak zapalenie oskrzeli, zapalenie płuc czy astma. Zalecenia dotyczące higieny układu oddechowego obejmują unikanie palenia tytoniu, wdychanie czystego powietrza, regularne ćwiczenia fizyczne oraz unikanie kontaktu z substancjami drażniącymi i alergenami. Choroby układu oddechowego mogą być spowodowane infekcjami wirusowymi, bakteryjnymi lub grzybiczymi oraz przez ekspozycję na substancje toksyczne."
     },
     "temat2": {
-      "nazwaTematu": "Trzy Linie Obrony Organizmu",
-      "description": "Organizm ludzki ma trzy linie obrony: pierwszą linię obrony stanowią fizyczne i chemiczne bariery, takie jak skóra, błony śluzowe i sok żołądkowy. Drugą linię obrony stanowią białe krwinki, takie jak neutrofile i makrofagi, które zwalczają patogeny poprzez fagocytozę. Trzecią linię obrony stanowi odporność nabyta, czyli odpowiedź immunologiczna, która obejmuje limfocyty T i B oraz produkcję przeciwciał."
+      "nazwaTematu": "Węglowodany Przyswajalne i Nieprzyswajalne",
+      "description": "Węglowodany są podstawowym źródłem energii dla organizmu. Węglowodany przyswajalne, takie jak skrobia i cukry, są trawione i wchłaniane przez organizm, dostarczając energii. Natomiast węglowodany nieprzyswajalne, takie jak błonnik pokarmowy, nie ulegają trawieniu w jelitach, ale pełnią istotną rolę w regulacji procesów trawiennych i zapobieganiu chorobom układu pokarmowego."
     },
     "temat3": {
-      "nazwaTematu": "Sposoby Nabierania Odporności Swoistej",
-      "description": "Odporność swoista może być nabywana czynnie lub biernie, naturalnie lub sztucznie. Nabycie odporności czynnej polega na zakażeniu organizmu patogenem, co prowadzi do rozwinięcia odpowiedzi immunologicznej i trwałego zapamiętania patogenu przez organizm. Nabycie odporności biernie występuje poprzez podanie gotowych przeciwciał, na przykład przez matkę podczas karmienia piersią. Odporność naturalna rozwija się w wyniku zakażenia naturalnego, podczas gdy odporność sztuczna jest indukowana przez szczepionkę."
+      "nazwaTematu": "Błonnik Pokarmowy",
+      "description": "Błonnik pokarmowy to nieprzyswajalna część roślinnej tkanki, która przechodzi przez przewód pokarmowy niestrawiona. Składa się głównie z celulozy, hemicelulozy, pektyn i ligniny. Błonnik pokarmowy reguluje perystaltykę jelit, zapobiega zaparciom, obniża poziom cholesterolu we krwi, reguluje poziom glukozy we krwi i zapobiega chorobom jelit."
     },
     "temat4": {
-      "nazwaTematu": "Choroby Autoimmunologiczne",
-      "description": "Choroby autoimmunologiczne występują, gdy układ odpornościowy atakuje własne komórki i tkanki organizmu, myląc je z patogenami. Przykłady chorób autoimmunologicznych to reumatoidalne zapalenie stawów, toczeń rumieniowaty układowy, cukrzyca typu 1 i stwardnienie rozsiane."
+      "nazwaTematu": "Rola Błonnika dla Organizmu",
+      "description": "Błonnik pokarmowy pełni wiele istotnych funkcji dla organizmu. Pomaga w regulacji procesów trawiennych poprzez zwiększenie objętości treści jelitowej, co ułatwia perystaltykę jelit i zapobiega zaparciom. Ponadto, błonnik pomaga w utrzymaniu prawidłowego poziomu cholesterolu we krwi poprzez wiązanie nadmiaru cholesterolu i jego wydalanie z organizmu."
     },
     "temat5": {
-      "nazwaTematu": "Konflikt Serologiczny",
-      "description": "Konflikt serologiczny to sytuacja, w której układ odpornościowy matki reaguje na antygeny obecne w krwi płodu, co może prowadzić do uszkodzenia tkanek płodu. Przykładem jest konflikt serologiczny Rh, który może wystąpić, gdy kobieta Rh- urodzi dziecko Rh+, co może prowadzić do erytroblastozisów płodowych."
+      "nazwaTematu": "Aminokwasy Egzogenne i Endogenne",
+      "description": "Aminokwasy egzogenne to te, które organizm nie jest w stanie samodzielnie syntezować i muszą być dostarczane w diecie. Są to np. lizyna, walina, leucyna. Natomiast aminokwasy endogenne to te, które organizm może samodzielnie syntezować, takie jak alanina, glicyna czy glutamina."
     },
     "temat6": {
-      "nazwaTematu": "Układ Zgodności Tkankowej",
-      "description": "Układ zgodności tkankowej to zbiór genów kodujących antygeny powierzchniowe na komórkach organizmu. Istnieje wiele loci genów, które określają zgodność tkankową między dawcą a biorcą w transplantacji. Im większa zgodność tkankowa między dawcą a biorcą, tym mniejsze ryzyko odrzutu przeszczepu."
+      "nazwaTematu": "Białka Pełnowartościowe i Niepełnowartościowe",
+      "description": "Białka pełnowartościowe zawierają wszystkie niezbędne aminokwasy egzogenne w odpowiednich proporcjach. Przykłady to mięso, ryby, jaja, produkty mleczne i soja. Białka niepełnowartościowe natomiast są ubogie w niektóre aminokwasy egzogenne. Przykłady to rośliny strączkowe, orzechy i nasiona."
     },
     "temat7": {
-      "nazwaTematu": "Transplantacja",
-      "description": "Transplantacja to zabieg chirurgiczny polegający na przeniesieniu narządu lub tkanki od dawcy do biorcy w celu przywrócenia lub poprawienia funkcji ciała. Transplantacja może być przeprowadzana w przypadku narządów takich jak serce, nerki, wątroba, płuca oraz tkanek, takich jak skóra czy rogówka oka."
+      "nazwaTematu": "Rola Tłuszczy",
+      "description": "Tłuszcze są istotnym składnikiem diety, pełniącym wiele funkcji w organizmie. Są one źródłem energii, uczestniczą w budowie błon komórkowych, pełnią funkcję izolacyjną i ochronną dla narządów, a także są nośnikiem witamin rozpuszczalnych w tłuszczach, takich jak witamina A, D, E i K."
     },
     "temat8": {
-      "nazwaTematu": "Immunosupresja",
-      "description": "Immunosupresja to proces, w którym układ odpornościowy jest celowo osłabiany, na przykład w celu zapobiegania odrzutowi przeszczepu. Dla zapewnienia sukcesu transplantacji stosuje się leki immunosupresyjne, które hamują reakcje immunologiczne organizmu i zmniejszają ryzyko odrzutu przeszczepu."
+      "nazwaTematu": "NNKT - Nienasycone Kwasy Tłuszczowe",
+      "description": "NNKT to nienasycone kwasy tłuszczowe, których organizm nie jest w stanie samodzielnie syntezować i muszą być dostarczane w diecie. Źródła NNKT to głównie tłuszcze roślinne, takie jak oleje roślinne, awokado, orzechy, nasiona oraz niektóre ryby, takie jak łosoś, makrela czy sardynki."
     },
     "temat9": {
-      "nazwaTematu": "Alergia",
-      "description": "Alergia to nadwrażliwość organizmu na substancje zwane alergenami, które normalnie nie stanowią zagrożenia dla zdrowych osób. Alergeny mogą być spożywane, wdychane lub wchłaniane przez skórę. Reakcja alergiczna może prowadzić do różnych objawów, od łagodnych do życia zagrażających, takich jak obrzęk naczynioruchowy czy wstrząs anafilaktyczny."
-    },
-    "temat10": {
-      "nazwaTematu": "Higiena i Choroby Układu Krwionośnego",
-      "description": "Higiena układu krwionośnego obejmuje praktyki mające na celu zapobieganie chorobom serca, naczyń krwionośnych i innych problemów zdrowotnych związanych z układem krążenia. Zalecenia dotyczące higieny układu krwionośnego obejmują zdrową dietę, regularną aktywność fizyczną, unikanie używek takich jak tytoń i alkohol, kontrolę ciśnienia krwi oraz regularne badania lekarskie. Choroby układu krwionośnego to z kolei wszelkie schorzenia dotykające serca, naczyń krwionośnych oraz krwi, takie jak nadciśnienie tętnicze, choroba wieńcowa, miażdżyca, zakrzepica czy udar mózgu. Właściwa higiena i regularne kontrole mogą pomóc w zapobieganiu wielu z tych chorób oraz w utrzymaniu zdrowego układu krążenia."
+      "nazwaTematu": "Kwasy Omega-3 i Omega-6",
+      "description": "Kwasy omega-3 i omega-6 to rodzaje NNKT, które pełnią istotne funkcje dla organizmu. Kwasy omega-3, takie jak kwas alfa-linolenowy (ALA), eikozapentaenowy (EPA) i dokozaheksaenowy (DHA), korzystnie wpływają na zdrowie serca, mózgu, układu nerwowego oraz obniżają ryzyko stanów zapalnych. Kwasy omega-6, takie jak kwas linolowy, są niezbędne dla wzrostu i rozwoju organizmu, ale nadmiar może prowadzić do stanów zapalnych i innych problemów zdrowotnych."
     }
   }
 }
