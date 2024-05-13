@@ -1,37 +1,25 @@
 {
-  "dzial": "XVIII w. - Oświecenie, Absolutyzm Oświecony, Polska 1683-1773",
+  "dzial": "Polska 1772-1795 i Epoka Napoleońska",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Oświecenie",
-      "description": "Oświecenie to epoka w historii Europy, charakteryzująca się wzrostem znaczenia nauki, rozwojem idei liberalnych oraz krytyką absolutyzmu. Oświecenie promowało rozum, naukę i tolerancję religijną jako fundamenty postępu społecznego. Wybitnymi przedstawicielami oświecenia byli Voltaire, Rousseau i Monteskiusz."
+      "nazwaTematu": "Rozbiory Polski",
+      "description": "Rozbiory Polski to proces podziału Rzeczypospolitej Obojga Narodów między Rosję, Austrię i Prusy, który miał miejsce w latach 1772-1795. Były to trzy akty agresji zewnętrznej, które doprowadziły do zniknięcia Polski z mapy Europy na ponad sto lat."
     },
     "temat2": {
-      "nazwaTematu": "Absolutyzm Oświecony",
-      "description": "Absolutyzm oświecony to forma rządów, która łączyła elementy absolutyzmu z ideami oświecenia. Władcy absolutystyczni starali się wdrażać reformy zgodne z duchem oświecenia, takie jak modernizacja administracji, kodyfikacja prawa, rozwój edukacji i nauki. Przykładem takiego absolutyzmu był panowanie Fryderyka II w Prusach."
+      "nazwaTematu": "Insurekcja Kościuszkowska",
+      "description": "Insurekcja Kościuszkowska to powstanie zbrojne przeciwko zaborcom, które wybuchło w 1794 roku pod przywództwem Tadeusza Kościuszki. Choć insurekcja zakończyła się niepowodzeniem, stała się symbolem walki o niepodległość Polski."
     },
     "temat3": {
-      "nazwaTematu": "Polska w XVIII w.",
-      "description": "W XVIII wieku Polska przeżywała okres znaczących zmian politycznych i społecznych. Nastąpiło osłabienie Rzeczypospolitej, przyczynione między innymi przez wewnętrzne konflikty i konfederacje, a także zewnętrzne interwencje obcych mocarstw. W 1772, 1793 i 1795 roku Polska została rozbiorami podzielona między Rosję, Prusy i Austrię."
+      "nazwaTematu": "Sejm Wielki",
+      "description": "Sejm Wielki to zorganizowany w latach 1788-1792 zjazd stanów Rzeczypospolitej, który miał na celu reformę państwa w celu wzmocnienia jego siły militarno-politycznej oraz modernizacji instytucji państwowych."
     },
     "temat4": {
-      "nazwaTematu": "Polska wobec Oświecenia",
-      "description": "Oświecenie miało wpływ na polskie elity intelektualne i polityczne. Niektórzy myśliciele polscy, tak jak Stanisław Konarski, propagowali idee oświecenia, promując reformy w edukacji i administracji. Jednakże, w Polsce nie udało się wprowadzić szerokich reform modernizacyjnych, co przyczyniło się do osłabienia państwa."
+      "nazwaTematu": "Kodeks Napoleona",
+      "description": "Kodeks Napoleona to zbiór francuskich praw opracowany na polecenie Napoleona Bonaparte, który miał na celu usystematyzowanie i unowocześnienie prawa francuskiego. Wprowadził zasady równości obywateli, własności prywatnej i równouprawnienia."
     },
     "temat5": {
-      "nazwaTematu": "Rozbiory Polski",
-      "description": "Rozbiory Polski to proces podziału terytorium Rzeczypospolitej pomiędzy Rosję, Prusy i Austrię. Pierwszy rozbiór miał miejsce w 1772 roku, drugi w 1793, a trzeci i ostateczny w 1795. Rozbiory zakończyły istnienie państwa polskiego na mapie Europy, a jego terytorium zostało wchłonięte przez mocarstwa zaborcze."
-    },
-    "temat6": {
-      "nazwaTematu": "Konfederacje w Polsce",
-      "description": "Konfederacje w Polsce to ruchy oporu przeciwko reformom i interwencjom obcych mocarstw. Przykładem jest Konfederacja Barska (1768-1772), która sprzeciwiała się wpływom rosyjskim i austriackim. Innymi konfederacjami były Konfederacja Radomska (1767) czy Konfederacja Targowicka (1792), które miały na celu ochronę interesów szlachty."
-    },
-    "temat7": {
-      "nazwaTematu": "Reformy w Polsce",
-      "description": "W XVIII wieku w Polsce podejmowano próby reform, które miały na celu modernizację państwa i społeczeństwa. Jednakże, z powodu oporu szlachty i obcych interwencji, większość reform nie odniosła sukcesu. Przykładem takich prób były reformy Stanisława Augusta Poniatowskiego, które miały na celu wzmocnienie monarchii i przeciwdziałanie upadkowi państwa."
-    },
-    "temat8": {
-      "nazwaTematu": "Skutki rozbiórów Polski",
-      "description": "Rozbiory Polski miały poważne skutki dla kraju. Zmniejszyły one terytorium Rzeczypospolitej, osłabiły polską pozycję na arenie międzynarodowej, a także przyczyniły się do upadku szlacheckiej republiki. Wydarzenia te wywarły również wpływ na późniejsze losy Polski, a szczególnie na kształtowanie się dążeń niepodległościowych."
+      "nazwaTematu": "Bitwa pod Waterloo",
+      "description": "Bitwa pod Waterloo to decydujące starcie zbrojne pomiędzy wojskami Napoleona a sprzymierzonymi siłami brytyjskimi i pruskimi, które miało miejsce w 1815 roku. Bitwa zakończyła się klęską Napoleona i doprowadziła do jego obalenia oraz restauracji Burbonów we Francji."
     }
   }
 }
