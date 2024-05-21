@@ -1,0 +1,45 @@
+{
+  "dzial": "Układ Nerwowy i Narządy Zmysłów",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Rodzaje Odruchów",
+      "description": "Odruchy to automatyczne reakcje organizmu na bodźce zewnętrzne lub wewnętrzne. Rodzaje odruchów to: odruchy somatyczne (np. odruch kolanowy), odruchy autonomiczne (np. odruch kaszlu, odruch wymiotny), odruchy warunkowe (nabyte poprzez uczenie się) i odruchy bezwarunkowe (dziedziczone i nie wymagające uczenia się)."
+    },
+    "temat2": {
+      "nazwaTematu": "Budowa Układu Nerwowego",
+      "description": "Układ nerwowy składa się z mózgu, rdzenia kręgowego i nerwów obwodowych. Mózg jest centralnym organem układu nerwowego, odpowiedzialnym za przetwarzanie bodźców, kontrolę funkcji cielesnych i koordynację działania różnych części ciała. Rdzeń kręgowy przekazuje impulsy nerwowe między mózgiem a resztą ciała, a nerwy obwodowe przesyłają informacje do i z mózgu."
+    },
+    "temat3": {
+      "nazwaTematu": "Funkcje Układu Nerwowego",
+      "description": "Układ nerwowy pełni wiele istotnych funkcji, w tym kontrolę ruchów, odbieranie i przetwarzanie bodźców z otoczenia, regulację funkcji wewnętrznych organizmu (np. oddychanie, trawienie), utrzymywanie homeostazy, kontrolę emocji i zachowań oraz przekazywanie informacji między różnymi częściami ciała."
+    },
+    "temat4": {
+      "nazwaTematu": "Budowa Narządów Zmysłów",
+      "description": "Narządy zmysłów są specjalizowanymi strukturami ciała odpowiedzialnymi za odbieranie bodźców z otoczenia i przekazywanie ich do mózgu w postaci sygnałów nerwowych. Do narządów zmysłów należą: oko (widzenie), ucho (słuch), nos (węch), język (smak) i skóra (dotyk)."
+    },
+    "temat5": {
+      "nazwaTematu": "Funkcje Narządów Zmysłów",
+      "description": "Narządy zmysłów pełnią kluczową rolę w postrzeganiu świata zewnętrznego oraz w komunikacji z otoczeniem. Ich główne funkcje to: odbieranie bodźców z otoczenia, przekazywanie informacji do mózgu, przetwarzanie informacji w mózgu i generowanie odpowiedzi oraz umożliwianie interakcji z otoczeniem."
+    },
+    "temat6": {
+      "nazwaTematu": "Znaczenie Ochrony Narządów Zmysłów",
+      "description": "Ochrona narządów zmysłów jest istotna dla utrzymania zdrowia i dobrego funkcjonowania organizmu. Właściwa higiena osobista, unikanie substancji toksycznych, stosowanie ochrony słuchu i wzroku w sytuacjach ryzyka oraz regularne badania kontrolne są kluczowe dla zapobiegania uszkodzeniom narządów zmysłów."
+    },
+    "temat7": {
+      "nazwaTematu": "Zaburzenia Układu Nerwowego",
+      "description": "Zaburzenia układu nerwowego mogą mieć różne przyczyny, takie jak urazy, choroby genetyczne, zaburzenia metaboliczne, infekcje, a także czynniki środowiskowe i styl życia. Przykładowe zaburzenia to: stwardnienie rozsiane, choroba Parkinsona, padaczka, depresja, zaburzenia lękowe."
+    },
+    "temat8": {
+      "nazwaTematu": "Choroby Narządów Zmysłów",
+      "description": "Choroby narządów zmysłów mogą prowadzić do znacznego pogorszenia jakości życia oraz utraty zdolności do normalnego funkcjonowania. Przykładowe choroby to: zaćma (oko), jaskra (oko), utrata słuchu, utrata węchu, zaburzenia smaku, uszkodzenia skóry (np. oparzenia, odleżyny)."
+    },
+    "temat9": {
+      "nazwaTematu": "Rehabilitacja Po Uszkodzeniach Układu Nerwowego",
+      "description": "Rehabilitacja po uszkodzeniach układu nerwowego ma na celu przywrócenie jak największej funkcjonalności i samodzielności pacjenta. Obejmuje różne formy terapii, takie jak fizjoterapia, terapia zajęciowa, logopedia, neuropsychologia oraz farmakoterapia. Rehabilitacja wymaga często interdyscyplinarnej współpracy specjalistów, a także zaangażowania pacjenta i jego bliskich.",
+      "temat10": {
+        "nazwaTematu": "Badania Diagnostyczne Układu Nerwowego i Narządów Zmysłów",
+        "description": "Badania diagnostyczne układu nerwowego i narządów zmysłów pozwalają na ocenę stanu zdrowia tych systemów oraz diagnozowanie ewentualnych zaburzeń i schorzeń. Do najczęściej stosowanych badań należą: badanie neurologiczne, elektroencefalografia (EEG), tomografia komputerowa (TK), rezonans magnetyczny (MRI), audiometria, badanie wzroku."
+      }
+    }
+  }
+}
