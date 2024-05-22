@@ -1,0 +1,41 @@
+{
+  "dzial": "Układ Oddechowy i Układ Wydalniczy",
+  "tematy": {
+    "temat1": {
+      "nazwaTematu": "Higiena i Choroby Układu Oddechowego",
+      "description": "Higiena układu oddechowego obejmuje praktyki mające na celu zapobieganie chorobom dróg oddechowych, takim jak zapalenie oskrzeli, zapalenie płuc czy astma. Zalecenia dotyczące higieny układu oddechowego obejmują unikanie palenia tytoniu, wdychanie czystego powietrza, regularne ćwiczenia fizyczne oraz unikanie kontaktu z substancjami drażniącymi i alergenami. Choroby układu oddechowego mogą być spowodowane infekcjami wirusowymi, bakteryjnymi lub grzybiczymi oraz przez ekspozycję na substancje toksyczne."
+    },
+    "temat2": {
+      "nazwaTematu": "Węglowodany Przyswajalne i Nieprzyswajalne",
+      "description": "Węglowodany są podstawowym źródłem energii dla organizmu. Węglowodany przyswajalne, takie jak skrobia i cukry, są trawione i wchłaniane przez organizm, dostarczając energii. Natomiast węglowodany nieprzyswajalne, takie jak błonnik pokarmowy, nie ulegają trawieniu w jelitach, ale pełnią istotną rolę w regulacji procesów trawiennych i zapobieganiu chorobom układu pokarmowego."
+    },
+    "temat3": {
+      "nazwaTematu": "Błonnik Pokarmowy",
+      "description": "Błonnik pokarmowy to nieprzyswajalna część roślinnej tkanki, która przechodzi przez przewód pokarmowy niestrawiona. Składa się głównie z celulozy, hemicelulozy, pektyn i ligniny. Błonnik pokarmowy reguluje perystaltykę jelit, zapobiega zaparciom, obniża poziom cholesterolu we krwi, reguluje poziom glukozy we krwi i zapobiega chorobom jelit."
+    },
+    "temat4": {
+      "nazwaTematu": "Rola Błonnika dla Organizmu",
+      "description": "Błonnik pokarmowy pełni wiele istotnych funkcji dla organizmu. Pomaga w regulacji procesów trawiennych poprzez zwiększenie objętości treści jelitowej, co ułatwia perystaltykę jelit i zapobiega zaparciom. Ponadto, błonnik pomaga w utrzymaniu prawidłowego poziomu cholesterolu we krwi poprzez wiązanie nadmiaru cholesterolu i jego wydalanie z organizmu."
+    },
+    "temat5": {
+      "nazwaTematu": "Aminokwasy Egzogenne i Endogenne",
+      "description": "Aminokwasy egzogenne to te, które organizm nie jest w stanie samodzielnie syntezować i muszą być dostarczane w diecie. Są to np. lizyna, walina, leucyna. Natomiast aminokwasy endogenne to te, które organizm może samodzielnie syntezować, takie jak alanina, glicyna czy glutamina."
+    },
+    "temat6": {
+      "nazwaTematu": "Białka Pełnowartościowe i Niepełnowartościowe",
+      "description": "Białka pełnowartościowe zawierają wszystkie niezbędne aminokwasy egzogenne w odpowiednich proporcjach. Przykłady to mięso, ryby, jaja, produkty mleczne i soja. Białka niepełnowartościowe natomiast są ubogie w niektóre aminokwasy egzogenne. Przykłady to rośliny strączkowe, orzechy i nasiona."
+    },
+    "temat7": {
+      "nazwaTematu": "Rola Tłuszczy",
+      "description": "Tłuszcze są istotnym składnikiem diety, pełniącym wiele funkcji w organizmie. Są one źródłem energii, uczestniczą w budowie błon komórkowych, pełnią funkcję izolacyjną i ochronną dla narządów, a także są nośnikiem witamin rozpuszczalnych w tłuszczach, takich jak witamina A, D, E i K."
+    },
+    "temat8": {
+      "nazwaTematu": "NNKT - Nienasycone Kwasy Tłuszczowe",
+      "description": "NNKT to nienasycone kwasy tłuszczowe, których organizm nie jest w stanie samodzielnie syntezować i muszą być dostarczane w diecie. Źródła NNKT to głównie tłuszcze roślinne, takie jak oleje roślinne, awokado, orzechy, nasiona oraz niektóre ryby, takie jak łosoś, makrela czy sardynki."
+    },
+    "temat9": {
+      "nazwaTematu": "Kwasy Omega-3 i Omega-6",
+      "description": "Kwasy omega-3 i omega-6 to rodzaje NNKT, które pełnią istotne funkcje dla organizmu. Kwasy omega-3, takie jak kwas alfa-linolenowy (ALA), eikozapentaenowy (EPA) i dokozaheksaenowy (DHA), korzystnie wpływają na zdrowie serca, mózgu, układu nerwowego oraz obniżają ryzyko stanów zapalnych. Kwasy omega-6, takie jak kwas linolowy, są niezbędne dla wzrostu i rozwoju organizmu, ale nadmiar może prowadzić do stanów zapalnych i innych problemów zdrowotnych."
+    }
+  }
+}
