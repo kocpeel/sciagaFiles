@@ -1,37 +1,45 @@
 {
-  "dzial": "Polska w XVII wieku",
+  "dzial": "Polityka i konflikty zimnej wojny",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Rzeczpospolita Obojga Narodów",
-      "description": "W XVII wieku Rzeczpospolita Obojga Narodów, czyli Polska i Litwa, stanowiła potężne państwo, które musiało stawić czoła licznych wyzwaniom zarówno zewnętrznym, jak i wewnętrznym. Była to unia dwóch równorzędnych narodów pod wspólnym monarszym panowaniem."
+      "nazwaTematu": "Początek rywalizacji USA i ZSRR",
+      "description": "W 1949 r. ZSRR zdetonował swoją pierwszą bombę atomową, co zapoczątkowało intensywny wyścig zbrojeń między dwoma supermocarstwami. Konflikt przybrał formę rywalizacji ideologicznej, militarnej i technologicznej, stając się globalnym zagrożeniem."
     },
     "temat2": {
-      "nazwaTematu": "Wojny Rzeczypospolitej",
-      "description": "XVII wiek to okres intensywnych działań wojennych Rzeczypospolitej Obojga Narodów. Polska toczyła długotrwałe wojny ze Szwecją, Rosją i Turcją, a także brała udział w konfliktach na arenie europejskiej. Te konflikty przyniosły Rzeczypospolitej liczne straty terytorialne i zniszczenia."
+      "nazwaTematu": "Wojna w Korei (1950–1953)",
+      "description": "Korea została podzielona wzdłuż 38. równoleżnika na komunistyczną Północ i proamerykańskie Południe. Wojna rozpoczęła się inwazją KRLD na Południe, a interwencja ONZ, Chin i USA doprowadziła do impasu zakończonego rozejmem w 1953 r. przy niezmienionej granicy."
     },
     "temat3": {
-      "nazwaTematu": "Złoty Wiek Polski",
-      "description": "Okres panowania Zygmunta III Wazy (1587-1632) i Władysława IV Wazy (1632-1648) jest często nazywany Złotym Wiekiem Polski. To czas, gdy Rzeczpospolita odnosiła sukcesy polityczne, gospodarcze i kulturalne. Mimo to, w drugiej połowie XVII wieku zaczęły narastać problemy i kryzysy, które osłabiły państwo."
+      "nazwaTematu": "Kryzys kubański (1962 r.)",
+      "description": "W 1962 r. ZSRR rozpoczął instalację rakiet z głowicami nuklearnymi na Kubie. Kryzys osiągnął punkt kulminacyjny, gdy USA ogłosiły blokadę morską Kuby. Ostatecznie ZSRR wycofał rakiety, a USA zgodziły się usunąć swoje pociski z Turcji."
     },
     "temat4": {
-      "nazwaTematu": "Kryzys władzy królewskiej",
-      "description": "W drugiej połowie XVII wieku w Polsce zaczęły narastać problemy związane z kryzysem władzy królewskiej. Elekcje nie zawsze przynosiły stabilność, a sejmiki szlacheckie miały duży wpływ na decyzje polityczne. Brak silnego przywództwa wpłynął negatywnie na sytuację wewnętrzną państwa."
+      "nazwaTematu": "Wojna w Wietnamie (1955–1975)",
+      "description": "Podzielony na komunistyczną Północ i proamerykańskie Południe, Wietnam stał się areną długotrwałego konfliktu. USA interweniowały po incydencie w Zatoce Tonkińskiej, ale ostatecznie wycofały się w 1973 r. Wietnam zjednoczył się pod rządami komunistów w 1975 r."
     },
     "temat5": {
-      "nazwaTematu": "Kościół katolicki a różnice wyznaniowe",
-      "description": "W XVII wieku w Polsce katolicyzm był dominującą religią, ale istniały również znaczące różnice wyznaniowe. Konflikty między katolikami a przedstawicielami innych wyznań, zwłaszcza protestantami i prawosławnymi, wpływały na życie społeczne i polityczne kraju."
+      "nazwaTematu": "Wojna w Afganistanie (1979–1989)",
+      "description": "W 1979 r. ZSRR rozpoczął inwazję na Afganistan w celu wsparcia tamtejszego rządu komunistycznego. Wojna trwała 10 lat i zakończyła się klęską ZSRR oraz wycofaniem wojsk w 1989 r., co znacząco osłabiło pozycję ZSRR."
     },
     "temat6": {
-      "nazwaTematu": "Potop szwedzki",
-      "description": "W latach 1655-1660 Polska stała w obliczu potopu szwedzkiego – inwazji Szwecji na ziemie Rzeczypospolitej. Ten tragiczny okres przyniósł ogromne zniszczenia, głód i epidemie. Szwedzi okupowali wielkie obszary kraju, a Rzeczpospolita musiała podjąć trudne decyzje, aby przetrwać."
+      "nazwaTematu": "Postać historyczna: John F. Kennedy",
+      "description": "Jako prezydent USA w czasie kryzysu kubańskiego, John F. Kennedy odegrał kluczową rolę w negocjacjach, które zapobiegły wojnie nuklearnej. Zginął w zamachu w Dallas w 1963 r."
     },
     "temat7": {
-      "nazwaTematu": "Traktat welawski 1656",
-      "description": "W wyniku potopu szwedzkiego doszło do podpisania traktatu welawskiego w 1656 roku. Traktat ten miał znaczący wpływ na kształtowanie się granic Rzeczypospolitej, a także na jej pozycję w relacjach międzynarodowych."
+      "nazwaTematu": "Wyścig zbrojeń i kosmiczny",
+      "description": "Rywalizacja między USA a ZSRR obejmowała rozwój broni atomowej i programów kosmicznych. W 1957 r. ZSRR wystrzelił Sputnika, co rozpoczęło kosmiczny wyścig, w którym USA odpowiedziały lądowaniem na Księżycu w 1969 r."
     },
     "temat8": {
-      "nazwaTematu": "Przemiany społeczno-gospodarcze",
-      "description": "W XVII wieku w Polsce zachodziły istotne przemiany społeczno-gospodarcze. Wzrastała rola magnaterii, a chłopi związani pańszczyzną borykali się z trudnościami. Rozwijał się handel, zwłaszcza z krajami Europy Zachodniej. Wprowadzono także różne reformy, mające na celu poprawę sytuacji gospodarczej kraju."
+      "nazwaTematu": "Wojny zastępcze w zimnej wojnie",
+      "description": "USA i ZSRR unikały bezpośredniego starcia, ale angażowały się w konflikty pośrednie, wspierając strony w wojnach w Korei, Wietnamie, Afganistanie i innych krajach Trzeciego Świata."
+    },
+    "temat9": {
+      "nazwaTematu": "Zasada wzajemnego odstraszania (MAD)",
+      "description": "Podczas zimnej wojny obowiązywała doktryna Mutual Assured Destruction (MAD), czyli wzajemnego zagwarantowanego zniszczenia. Polegała na tym, że każda ze stron miała wystarczająco dużo broni atomowej, by zniszczyć drugą w odwecie."
+    },
+    "temat10": {
+      "nazwaTematu": "5 najważniejszych pojęć zimnej wojny",
+      "description": "1. **Żelazna Kurtyna** – podział Europy na Wschód i Zachód. 2. **Blokada Berlina (1948-1949)** – pierwszy kryzys zimnej wojny. 3. **Doktryna Trumana** – polityka powstrzymywania komunizmu. 4. **NATO i Układ Warszawski** – rywalizujące sojusze militarne. 5. **Kryzys kubański** – kulminacja napięć między USA a ZSRR."
     }
   }
 }
