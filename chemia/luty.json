@@ -40,7 +40,9 @@
     "temat10": {
       "nazwaTematu": "Rekombinacja genetyczna",
       "description": "Rekombinacja genetyczna to proces wymiany fragmentów DNA między homologiczne chromosomy podczas mejozy, co zwiększa różnorodność genetyczną potomstwa. Jest kluczowa dla ewolucji i adaptacji organizmów."
+    },
+    "temat11": {
+        "img": "https://cdn.discordapp.com/attachments/755519116680495226/1325877053966389288/AJQWtBPXLwnqNppGiBT6xYqDkjFUv4x1uqBRIDqOZVcndvysFzhgWyrkYMZjuszHbIYzobAOukiu9DZwZzxQyG7E3SI6GNgwPrDHnID8aNQvx_MuiUsw1920-h919.png?ex=677d62bb&is=677c113b&hm=f74e2e393a3cf35074b07cc96f305d0f6e579a74fd7e498e257204f5d8b8aa4c"
     }
-  },
-  "img": "https://cdn.discordapp.com/attachments/755519116680495226/1325877053966389288/AJQWtBPXLwnqNppGiBT6xYqDkjFUv4x1uqBRIDqOZVcndvysFzhgWyrkYMZjuszHbIYzobAOukiu9DZwZzxQyG7E3SI6GNgwPrDHnID8aNQvx_MuiUsw1920-h919.png?ex=677d62bb&is=677c113b&hm=f74e2e393a3cf35074b07cc96f305d0f6e579a74fd7e498e257204f5d8b8aa4c"
+  }
 }
