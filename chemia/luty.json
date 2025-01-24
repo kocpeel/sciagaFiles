@@ -1,48 +1,50 @@
 {
-  "dzial": "Genetyka",
+  "dzial": "Leki i dawka",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Znaczenie genetyki w medycynie",
-      "description": "Genetyka odgrywa kluczową rolę w medycynie, zwłaszcza w diagnostyce i terapii chorób genetycznych, takich jak mukowiscydoza, hemofilia czy nowotwory dziedziczne. Wprowadzenie technologii CRISPR umożliwia precyzyjną edycję genów, otwierając drogę do potencjalnego leczenia wielu schorzeń."
+      "nazwaTematu": "Leki stosowane przy nadkwasocie",
+      "description": "W lekach stosowanych przy nadkwasocie substancją czynną jest soda oczyszczona (wodorowęglan sodu), która neutralizuje kwas solny w żołądku, łagodząc zgagę i objawy refluksu."
     },
     "temat2": {
-      "nazwaTematu": "Genetyka w rolnictwie",
-      "description": "Inżynieria genetyczna pozwala na tworzenie genetycznie modyfikowanych organizmów (GMO), które są bardziej odporne na choroby, szkodniki i niekorzystne warunki środowiskowe. Dzięki temu rolnictwo staje się bardziej efektywne i zrównoważone."
+      "nazwaTematu": "Substancje rakotwórcze w dymie tytoniowym",
+      "description": "Dym tytoniowy zawiera wiele szkodliwych substancji, w tym związki rakotwórcze, takie jak naftalen i uretan, które uszkadzają DNA i zwiększają ryzyko nowotworów."
     },
     "temat3": {
-      "nazwaTematu": "Znaczenie genetyki w ochronie środowiska",
-      "description": "Genetyka jest używana do ochrony bioróżnorodności poprzez identyfikację gatunków i populacji zagrożonych wyginięciem oraz planowanie programów hodowlanych i reintrodukcji. Analiza genetyczna pomaga również w walce z nielegalnym handlem dzikimi zwierzętami."
+      "nazwaTematu": "Sposoby podawania leków",
+      "description": "Lek najszybciej przeniknie do organizmu w postaci kroplówki, ponieważ omija układ pokarmowy i trafia bezpośrednio do krwiobiegu, co pozwala na szybkie działanie."
     },
     "temat4": {
-      "nazwaTematu": "Zygota i jej rodzaje",
-      "description": "Zygota to komórka powstała w wyniku zapłodnienia, czyli połączenia gamety żeńskiej (komórki jajowej) i męskiej (plemnika). W zależności od liczby komórek, jakie zygota dzieli w pierwszych stadiach rozwoju, wyróżnia się zygotę jednokomórkową i wielokomórkową."
+      "nazwaTematu": "Działanie leków na zgagę",
+      "description": "Leki na zgagę działają poprzez zobojętnianie nadmiaru kwasów żołądkowych, co zmniejsza uczucie pieczenia w przełyku i żołądku. Najczęściej zawierają substancje, takie jak wodorotlenek magnezu czy wodorowęglan sodu."
     },
     "temat5": {
-      "nazwaTematu": "Allele i ich typy",
-      "description": "Allele to różne formy tego samego genu, które mogą determinować różne cechy organizmu. Istnieją allele dominujące, które zawsze ujawniają się w fenotypie, oraz allele recesywne, które ujawniają się tylko w przypadku braku dominującego allelu."
+      "nazwaTematu": "Rodzaje dawek substancji chemicznych",
+      "description": {
+        "ilość substancji wywołująca pierwsze możliwe do zaobserwowania zmiany w organizmie": "Dawka progowa (ang. threshold dose).",
+        "ilość substancji powodująca śmierć 50% zwierząt doświadczalnych": "Dawka śmiertelna (LD50).",
+        "ilość substancji wywołująca wyraźne zatrucie organizmu": "Dawka toksyczna (TD).",
+        "ilość substancji powodująca działanie lecznicze": "Dawka terapeutyczna."
+      }
     },
     "temat6": {
-      "nazwaTematu": "Mutacje genetyczne",
-      "description": "Mutacje to zmiany w sekwencji DNA, które mogą być spowodowane czynnikami zewnętrznymi (mutageny) lub wewnętrznymi błędami podczas replikacji DNA. Mutacje mogą prowadzić do chorób genetycznych lub zmieniać cechy organizmu, co jest podstawą ewolucji."
+      "nazwaTematu": "Wpływ grup chemicznych na rozpuszczalność",
+      "description": "Grupa karboksylowa zmniejsza rozpuszczalność w wodzie substancji, do której została przyłączona, co warunkuje dobre wydalanie tego związku z moczem."
     },
     "temat7": {
-      "nazwaTematu": "Chromosomy i kariotyp",
-      "description": "Chromosomy to struktury zbudowane z DNA i białek, zawierające geny. Kariotyp to zestaw wszystkich chromosomów w komórce organizmu. U ludzi kariotyp składa się z 23 par chromosomów: 22 par autosomów i 1 para chromosomów płciowych."
+      "nazwaTematu": "Zatrucie kofeiną i bezpieczne dawki",
+      "description": "Zatrucie kofeiną może objawiać się pobudzeniem, drgawkami i bezsennością. Bezpieczna dawka kofeiny to: \n- dzieci: 5,3 mg/kg masy ciała (np. dla 10-latka: 140-160 mg na dobę);\n- dorośli: poniżej 300 mg na dobę (przyjęcie powyżej 500 mg jest przedawkowaniem, a powyżej 2000 mg – zatruciem)."
     },
     "temat8": {
-      "nazwaTematu": "DNA i RNA",
-      "description": "DNA (kwas deoksyrybonukleinowy) jest nośnikiem informacji genetycznej w organizmach, natomiast RNA (kwas rybonukleinowy) bierze udział w syntezie białek. Różnią się one budową chemiczną i funkcją w komórce."
+      "nazwaTematu": "Obliczanie dawki napoju typu cola",
+      "description": "Przykład: Napój typu cola zawiera 160 mg kofeiny na 1 litr. Osoba dorosła może wypić maksymalnie 300 mg dziennie. Obliczenie: \n- 1 litr = 160 mg, więc 250 ml = 40 mg; \n- 300 mg ÷ 40 mg = 7,5 puszek (około 7 puszek dziennie bezpiecznie)."
     },
     "temat9": {
-      "nazwaTematu": "Kod genetyczny",
-      "description": "Kod genetyczny to sposób, w jaki informacje zawarte w DNA są tłumaczone na sekwencję aminokwasów w białkach. Jest on uniwersalny dla większości organizmów i składa się z trójek nukleotydów, zwanych kodonami."
+      "nazwaTematu": "Obliczanie dawki syropu z paracetamolem",
+      "description": "Przykład: Syrop zawiera 24 mg/ml, a maksymalna dawka to 60 mg/kg masy ciała. Dla dziecka o masie 25 kg: \n- Maksymalna dawka: 25 × 60 = 1500 mg; \n- 1 ml = 24 mg, więc 1500 mg ÷ 24 mg/ml = 62,5 ml (maksymalnie)."
     },
     "temat10": {
-      "nazwaTematu": "Rekombinacja genetyczna",
-      "description": "Rekombinacja genetyczna to proces wymiany fragmentów DNA między homologiczne chromosomy podczas mejozy, co zwiększa różnorodność genetyczną potomstwa. Jest kluczowa dla ewolucji i adaptacji organizmów."
-    },
-    "temat11": {
-        "img": "https://cdn.discordapp.com/attachments/755519116680495226/1325877053966389288/AJQWtBPXLwnqNppGiBT6xYqDkjFUv4x1uqBRIDqOZVcndvysFzhgWyrkYMZjuszHbIYzobAOukiu9DZwZzxQyG7E3SI6GNgwPrDHnID8aNQvx_MuiUsw1920-h919.png?ex=677d62bb&is=677c113b&hm=f74e2e393a3cf35074b07cc96f305d0f6e579a74fd7e498e257204f5d8b8aa4c"
+      "nazwaTematu": "Znaczenie węgla aktywnego",
+      "description": "Węgiel aktywny charakteryzuje się dużą powierzchnią adsorpcyjną, co pozwala na skuteczne wiązanie toksyn i gazów w układzie pokarmowym, stosowany jest jako antidotum w zatruciach."
     }
   }
 }
