@@ -1,37 +1,49 @@
 {
-  "dzial": "Farmakologia i dawkowanie leków",
+  "dzial": "Białka – budowa, właściwości i reakcje",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Leki stosowane przy nadkwasocie",
-      "description": "W leczeniu nadkwasoty stosuje się substancje zobojętniające kwasy żołądkowe. Przykładem jest **soda oczyszczona (wodorowęglan sodu)**, która neutralizuje nadmiar kwasu solnego w żołądku. Zastosowanie takich substancji łagodzi objawy zgagi i refluksu."
+      "nazwaTematu": "Reakcje chemiczne białek",
+      "description": "W reakcji białka jaja kurzego z **Pb(NO3)2** powstaje biały osad, który rozpuszcza się w wodzie destylowanej. Jest to wynik tworzenia się kompleksu rozpuszczalnego w wodzie."
     },
     "temat2": {
-      "nazwaTematu": "Substancje rakotwórcze w dymie tytoniowym",
-      "description": "Dym tytoniowy zawiera wiele substancji toksycznych i rakotwórczych. Przykładami są **naftalen i uretan**, które mogą uszkadzać DNA i prowadzić do nowotworów. Oprócz nich dym tytoniowy zawiera tysiące innych chemikaliów, które mają szkodliwe działanie na organizm."
+      "nazwaTematu": "Próba biuretowa",
+      "description": "Próba biuretowa wykrywa wiązania peptydowe w białkach. Po dodaniu zawiesiny **Cu(OH)2** i wymieszaniu powstaje charakterystyczne **fioletowe zabarwienie**, co potwierdza obecność wiązań peptydowych."
     },
     "temat3": {
-      "nazwaTematu": "Drogi podawania leków",
-      "description": "Leki wprowadzane do organizmu różnią się szybkością działania w zależności od formy. Najszybciej lek działa w przypadku podania w postaci **kroplówki (dożylnie)**, ponieważ substancja czynna trafia bezpośrednio do krwiobiegu, omijając procesy trawienia i wchłaniania."
+      "nazwaTematu": "Podstawowe jednostki budujące białka",
+      "description": "Podstawowymi składnikami białek są **aminokwasy**, które łączą się ze sobą wiązaniami peptydowymi, tworząc struktury białkowe."
     },
     "temat4": {
-      "nazwaTematu": "Charakterystyka antybiotyków i leków neutralizujących",
-      "description": "Antybiotyki nie zwalczają objawów, lecz eliminują przyczyny chorób bakteryjnych, niszcząc drobnoustroje. Natomiast węgiel aktywny ma dużą powierzchnię wchłaniającą, co pozwala na wiązanie toksyn. Leki na zgagę działają przez **zobojętnienie kwasów żołądkowych**, co przynosi ulgę w refluksie."
+      "nazwaTematu": "Denaturacja i wysalanie białek",
+      "description": "Denaturacja białka to proces **nieodwracalnej zmiany struktury**, spowodowany m.in. **wysoką temperaturą, alkoholem, kwasami i zasadami**. Wysalanie, np. za pomocą **siarczanu(VI) amonu**, jest procesem odwracalnym, prowadzącym do wytrącenia białka z roztworu."
     },
     "temat5": {
-      "nazwaTematu": "Definicje dawek i ich znaczenie",
-      "description": "1. **Dawka progowa** – najmniejsza ilość substancji wywołująca widoczne zmiany w organizmie.\n2. **Dawka śmiertelna (LD50)** – ilość substancji powodująca śmierć 50% badanych zwierząt.\n3. **Dawka toksyczna** – ilość substancji wywołująca poważne zatrucie.\n4. **Dawka terapeutyczna** – ilość substancji wywołująca działanie lecznicze."
+      "nazwaTematu": "Charakterystyka białek",
+      "description": "Białka są **polimerami kondensacyjnymi α-aminokwasów**, łączących się wiązaniami peptydowymi, a nie estrowymi. Nie wszystkie białka składają się ze 100 reszt aminokwasowych – ich wielkość zależy od funkcji biologicznej."
     },
     "temat6": {
-      "nazwaTematu": "Wpływ grup funkcyjnych na rozpuszczalność",
-      "description": "Przyłączenie grupy **karboksylowej** do związku chemicznego zwiększa jego rozpuszczalność w wodzie, co ułatwia wydalanie tego związku z moczem. W przypadku grupy estrowej rozpuszczalność w wodzie jest mniejsza, co utrudnia eliminację związku z organizmu."
+      "nazwaTematu": "Odwracalność denaturacji",
+      "description": "Denaturacja białek może być **odwracalna**, jeśli ulega zniszczeniu tylko **otoczka hydratacyjna**. Jednak jeśli uszkodzeniu ulegają struktury drugorzędowe, trzeciorzędowe i czwartorzędowe, proces ten jest **nieodwracalny**."
     },
     "temat7": {
-      "nazwaTematu": "Zatrucie kofeiną i bezpieczne dawki",
-      "description": "Bezpieczna dawka kofeiny dla dorosłych wynosi poniżej **300 mg na dobę**. Przyjęcie ponad 500 mg może wywołać objawy przedawkowania, takie jak drżenie rąk, pobudzenie i zawroty głowy. Napój typu cola zawierający **160 mg kofeiny na litr** pozwala na wypicie około **1,87 litra (7,5 puszek po 250 ml)** bez przekroczenia tej dawki."
+      "nazwaTematu": "Koagulacja i denaturacja",
+      "description": "Pod wpływem **nasyconego roztworu NaCl** białko ulega **odwracalnemu wysalaniu**, a nie koagulacji. Denaturacja natomiast jest procesem nieodwracalnym, związanym ze zmianą struktury białka."
     },
     "temat8": {
-      "nazwaTematu": "Obliczanie dawki paracetamolu dla dzieci",
-      "description": "Dawka dobowa paracetamolu wynosi maksymalnie **60 mg/kg masy ciała dziecka**. Jeśli dziecko waży 25 kg, maksymalna dawka wynosi **1500 mg na dobę**. Przy zawartości 24 mg/ml w syropie można podać do **62,5 ml syropu na dobę**."
+      "nazwaTematu": "Rozkład białek w środowisku zasadowym",
+      "description": "Podczas ogrzewania białka w obecności **NaOH** wydziela się **amoniak (NH3)**, który barwi papierek wskaźnikowy na **niebiesko**. Świadczy to o obecności **grupy aminowej** w strukturze białka."
+    },
+    "temat9": {
+      "nazwaTematu": "Budowa peptydów",
+      "description": "Peptydy to **produkty reakcji kondensacji aminokwasów**, które łączą się wiązaniami peptydowymi, uwalniając cząsteczkę wody."
+    },
+    "temat10": {
+      "nazwaTematu": "Liczba możliwych dipeptydów",
+      "description": "Kondensacja glicyny i waliny prowadzi do powstania **2 różnych dipeptydów**, ponieważ kolejność aminokwasów w łańcuchu ma znaczenie."
+    },
+    "temat11": {
+      "nazwaTematu": "Łączenie się cząsteczek glicyny",
+      "description": "Glicyna zawiera **dwie grupy funkcyjne – jedną o charakterze kwasowym, drugą o charakterze zasadowym**, co umożliwia jej łączenie się w większe struktury białkowe."
     }
   }
 }
