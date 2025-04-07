@@ -3,54 +3,47 @@
   "tematy": {
     "temat1": {
       "nazwaTematu": "Wykrywanie skrobi",
-      "description": "Skrobię wykrywa się za pomocą **płynu Lugola** (jod w roztworze KI). Charakterystyczną reakcją jest **powstanie granatowego zabarwienia** po zetknięciu skrobi z roztworem jodu."
+      "description": "Skrobię wykrywa się za pomocą płynu Lugola (jod w roztworze KI). Charakterystyczną reakcją jest powstanie granatowego zabarwienia po zetknięciu skrobi z roztworem jodu."
     },
     "temat2": {
       "nazwaTematu": "Budowa glukozy",
-      "description": "Glukoza to **cukier prosty (monosacharyd)** o sześciu atomach węgla (heksoza), dlatego należy do **heksoz**."
+      "description": "Glukoza to cukier prosty (monosacharyd) o sześciu atomach węgla (heksoza), dlatego należy do heksoz."
     },
     "temat3": {
       "nazwaTematu": "Pochodzenie nazwy glukozy",
-      "description": "Glukoza nazywana jest **cukrem gronowym**, ponieważ po raz pierwszy została wyodrębniona z **winogron**."
+      "description": "Glukoza nazywana jest cukrem gronowym, ponieważ po raz pierwszy została wyodrębniona z winogron."
     },
     "temat4": {
       "nazwaTematu": "Dwucukry – sacharoza i maltoza",
-      "description": "Sacharoza i maltoza to **dwucukry (disacharydy)** o wzorze C12H22O11. **Sacharoza nie ma właściwości redukujących**, w przeciwieństwie do maltozy."
+      "description": "Sacharoza i maltoza to dwucukry (disacharydy) o wzorze C12H22O11. Sacharoza nie ma właściwości redukujących, w przeciwieństwie do maltozy."
     },
     "temat5": {
       "nazwaTematu": "Właściwości glukozy",
-      "description": "Glukoza ma **właściwości redukujące**, ponieważ **daje pozytywny wynik próby Trommera** (zmiana koloru z niebieskiego na ceglastoczerwony)."
+      "description": "Glukoza ma właściwości redukujące, ponieważ daje pozytywny wynik próby Trommera (zmiana koloru z niebieskiego na ceglastoczerwony)."
     },
     "temat6": {
       "nazwaTematu": "Fruktoza",
-      "description": "Fruktoza to **cukier prosty (monosacharyd)**, a dokładnie **ketoza** (czyli polihydroksyketon). Różni się od glukozy strukturą chemiczną, ale również należy do heksoz."
+      "description": "Fruktoza to cukier prosty (monosacharyd), a dokładnie ketoza (czyli polihydroksyketon). Różni się od glukozy strukturą chemiczną, ale również należy do heksoz."
     },
     "temat7": {
       "nazwaTematu": "Wiązania glikozydowe",
-      "description": "Wiązanie **O-glikozydowe** występuje w cząsteczkach **dwucukrów**, np. **sacharozy**, i łączy dwa monosacharydy."
+      "description": "Wiązanie O-glikozydowe występuje w cząsteczkach dwucukrów, np. sacharozy, i łączy dwa monosacharydy."
     },
     "temat8": {
       "nazwaTematu": "Budowa fruktozy",
-      "description": "Fruktoza to **polihydroksyketon** należący do **cukrów prostych**. Ze względu na liczbę atomów węgla zalicza się do **heksoz**."
+      "description": "Fruktoza to polihydroksyketon należący do cukrów prostych. Ze względu na liczbę atomów węgla zalicza się do heksoz."
     },
     "temat9": {
       "nazwaTematu": "Hydroliza skrobi",
-      "description": "Produktem całkowitej hydrolizy skrobi jest **glukoza**. Jest to reakcja rozkładu polisacharydu na cukry proste."
+      "description": "Produktem całkowitej hydrolizy skrobi jest glukoza. Jest to reakcja rozkładu polisacharydu na cukry proste."
     },
     "temat10": {
       "nazwaTematu": "Doświadczenie z hydrolizą dwucukru",
-      "description": "Podczas doświadczenia hydrolizy sacharozy można użyć odczynnika: **kwas siarkowy(VI) (H2SO4)** lub enzymów. Powstają dwa monosacharydy: **glukoza i fruktoza**."
+      "description": "Podczas doświadczenia hydrolizy sacharozy można użyć odczynnika: kwas siarkowy(VI) (H2SO4) lub enzymów. Powstają dwa monosacharydy: glukoza i fruktoza."
     },
     "temat11": {
-      "nazwaTematu": "Porównanie właściwości glukozy, sacharozy i maltozy",
-      "description": {
-        "1": "Glukoza to **cukier prosty**.",
-        "2": "Sacharoza **nie ulega próbie Trommera**.",
-        "3": "Glukoza i maltoza mają **właściwości redukujące**.",
-        "4": "Wszystkie – glukoza, sacharoza i maltoza – **dobrze rozpuszczają się w wodzie**.",
-        "5": "Sacharoza i maltoza **ulega hydrolizie** pod wpływem enzymów.",
-        "6": "Sacharoza i maltoza to **dwucukry**."
-      }
+      "nazwaTematu": "Porównanie glukozy, sacharozy i maltozy",
+      "description": "Glukoza to cukier prosty. Sacharoza nie ulega próbie Trommera. Glukoza i maltoza mają właściwości redukujące. Wszystkie – glukoza, sacharoza i maltoza – dobrze rozpuszczają się w wodzie. Sacharoza i maltoza ulegają hydrolizie pod wpływem enzymów. Sacharoza i maltoza to dwucukry."
     }
   }
 }
