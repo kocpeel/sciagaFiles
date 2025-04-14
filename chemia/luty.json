@@ -1,49 +1,37 @@
 {
-  "dzial": "Cukry – budowa, właściwości i reakcje chemiczne",
+  "dzial": "Biologia – Ewolucjonizm",
   "tematy": {
     "temat1": {
-      "nazwaTematu": "Wykrywanie skrobi",
-      "description": "Skrobię wykrywa się za pomocą płynu Lugola (jod w roztworze KI). Charakterystyczną reakcją jest powstanie granatowego zabarwienia po zetknięciu skrobi z roztworem jodu."
+      "nazwaTematu": "Podobieństwa i różnice między człowiekiem a innymi człekokształtnymi",
+      "description": "Homo habilis – pierwszy użytkownik narzędzi, mniejszy mózg, żył ok. 2,4–1,5 mln lat temu. Homo erectus – wyprostowana postawa, większy mózg, ogień, migracje. Homo neanderthalensis – masywniejszy, przystosowany do zimna, wyginął. Homo sapiens – współczesny człowiek, rozwinięty mózg, mowa, kultura, sztuka. Podobieństwa: budowa szkieletu, sposób poruszania, podobne DNA. Różnice: wielkość mózgu, stopień rozwoju narzędzi, poziom kultury."
     },
     "temat2": {
-      "nazwaTematu": "Budowa glukozy",
-      "description": "Glukoza to cukier prosty (monosacharyd) o sześciu atomach węgla (heksoza), dlatego należy do heksoz."
+      "nazwaTematu": "tabela",
+      "img": "https://cdn.discordapp.com/attachments/755519116680495226/1361306217213067264/AJQWtBMGJ_D0XdPJjPJkfUwXW4vx90Am-QDGtSY53-PmmWNzDpLBXWwsrw67K5IyLyCcCLBv7S8Yy4gfaukyndlNjFN9An51xIS4vPyTzjV5hi8O8ww1879-h925.png?ex=67fe46b6&is=67fcf536&hm=7b60d76e71c6205ae2c49044d93a8adb9645a5051e883abcd12c910197f04b22&"
     },
     "temat3": {
-      "nazwaTematu": "Pochodzenie nazwy glukozy",
-      "description": "Glukoza nazywana jest cukrem gronowym, ponieważ po raz pierwszy została wyodrębniona z winogron."
+      "nazwaTematu": "Skład pierwotnej atmosfery",
+      "description": "Pierwotna atmosfera Ziemi nie zawierała tlenu. Dominowały metan (CH4), amoniak (NH3), para wodna (H2O), azot (N2) i dwutlenek węgla (CO2). Nie było warstwy ozonowej, więc promieniowanie UV dochodziło do powierzchni Ziemi."
     },
     "temat4": {
-      "nazwaTematu": "Dwucukry – sacharoza i maltoza",
-      "description": "Sacharoza i maltoza to dwucukry (disacharydy) o wzorze C12H22O11. Sacharoza nie ma właściwości redukujących, w przeciwieństwie do maltozy."
+      "nazwaTematu": "Pierwsze organizmy",
+      "description": "Pierwsze organizmy były jednokomórkowe, bezjądrowe (prokarionty). Później pojawiły się sinice (cyjanobakterie), które prowadziły fotosyntezę i zaczęły produkować tlen."
     },
     "temat5": {
-      "nazwaTematu": "Właściwości glukozy",
-      "description": "Glukoza ma właściwości redukujące, ponieważ daje pozytywny wynik próby Trommera (zmiana koloru z niebieskiego na ceglastoczerwony)."
+      "nazwaTematu": "Antropogeneza",
+      "description": "Człowiek wyewoluował w Afryce. Zmiana klimatu spowodowała zamianę lasów deszczowych w sawanny. Przodkowie ludzi zaczęli chodzić na dwóch nogach (dwunożność), by lepiej poruszać się po otwartej przestrzeni i widzieć drapieżniki."
     },
     "temat6": {
-      "nazwaTematu": "Fruktoza",
-      "description": "Fruktoza to cukier prosty (monosacharyd), a dokładnie ketoza (czyli polihydroksyketon). Różni się od glukozy strukturą chemiczną, ale również należy do heksoz."
+      "nazwaTematu": "Dryf genetyczny",
+      "description": "To losowe zmiany częstości alleli w małej populacji. Może prowadzić do utraty różnorodności genetycznej."
     },
     "temat7": {
-      "nazwaTematu": "Wiązania glikozydowe",
-      "description": "Wiązanie O-glikozydowe występuje w cząsteczkach dwucukrów, np. sacharozy, i łączy dwa monosacharydy."
+      "nazwaTematu": "Efekt założyciela",
+      "description": "To sytuacja, gdy mała grupa osobników zakłada nową populację. Ma ona ograniczoną różnorodność genetyczną i może różnić się od populacji macierzystej."
     },
     "temat8": {
-      "nazwaTematu": "Budowa fruktozy",
-      "description": "Fruktoza to polihydroksyketon należący do cukrów prostych. Ze względu na liczbę atomów węgla zalicza się do heksoz."
-    },
-    "temat9": {
-      "nazwaTematu": "Hydroliza skrobi",
-      "description": "Produktem całkowitej hydrolizy skrobi jest glukoza. Jest to reakcja rozkładu polisacharydu na cukry proste."
-    },
-    "temat10": {
-      "nazwaTematu": "Doświadczenie z hydrolizą dwucukru",
-      "description": "Podczas doświadczenia hydrolizy sacharozy można użyć odczynnika: kwas siarkowy(VI) (H2SO4) lub enzymów. Powstają dwa monosacharydy: glukoza i fruktoza."
-    },
-    "temat11": {
-      "nazwaTematu": "Porównanie glukozy, sacharozy i maltozy",
-      "description": "Glukoza to cukier prosty. Sacharoza nie ulega próbie Trommera. Glukoza i maltoza mają właściwości redukujące. Wszystkie – glukoza, sacharoza i maltoza – dobrze rozpuszczają się w wodzie. Sacharoza i maltoza ulegają hydrolizie pod wpływem enzymów. Sacharoza i maltoza to dwucukry."
+      "nazwaTematu": "Endosymbioza",
+      "description": "Teoria mówiąca, że mitochondria i chloroplasty powstały z bakterii, które zostały pochłonięte przez inne komórki i zaczęły z nimi współżyć."
     }
   }
 }
